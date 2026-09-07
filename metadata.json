@@ -1,0 +1,6 @@
+{
+  "name": "CoastGuard AI - Coastal Erosion Risk & Decision Support",
+  "description": "XGBoost & TreeSHAP coastal erosion susceptibility model with automated LocalStorage state persistence for accidental refreshes, Copernicus Sentinel-2 satellite GIS overlay, evacuation routes & safe havens, and CAP disaster early warning alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1201 @@
+transect_id,region,latitude,longitude,slope,storm_count,storm_energy,depth_of_closure,geomorphology,geomorphology_encoded,longshore_direction,longshore_encoded,label
+TRX-0001,Tyrrhenian Bay (Campania),40.7075,14.19251,3.41,24.0,61.0,14.13,gravel,1,transitional,1,0
+TRX-0002,Ionian Barrier Spit,39.50161,16.35796,3.13,21.0,300.5,9.95,gravel,1,convergent,0,1
+TRX-0003,Adriatic Central Coast (Abruzzo),42.42764,14.2979,5.74,9.0,82.2,16.94,sandy,0,convergent,0,0
+TRX-0004,North Sea Barrier Island,53.59214,7.26892,7.07,13.0,51.5,8.31,dune,2,divergent,2,1
+TRX-0005,Outer Banks Transect,35.82321,-75.53863,1.34,8.0,329.2,17.31,riverbank,3,divergent,2,0
+TRX-0006,Outer Banks Transect,35.6988,-75.64342,8.64,23.0,394.7,12.92,dune,2,convergent,0,1
+TRX-0007,Ionian Barrier Spit,39.39902,16.46384,12.38,21.0,295.3,7.35,sandy,0,divergent,2,1
+TRX-0008,Outer Banks Transect,35.77035,-75.73014,11.48,19.0,370.5,8.59,dune,2,transitional,1,1
+TRX-0009,Gold Coast Spit,-28.05714,153.31189,9.52,18.0,125.1,12.1,riverbank,3,transitional,1,1
+TRX-0010,Gold Coast Spit,-28.07273,153.28413,2.08,21.0,84.0,13.35,dune,2,transitional,1,1
+TRX-0011,Gold Coast Spit,-27.94127,153.56132,10.87,1.0,292.1,5.99,riverbank,3,divergent,2,1
+TRX-0012,North Sea Barrier Island,53.48043,7.18612,11.96,24.0,125.4,11.01,sandy,0,divergent,2,1
+TRX-0013,North Sea Barrier Island,53.6025,7.2023,3.13,12.0,325.0,11.51,dune,2,transitional,1,1
+TRX-0014,Adriatic Central Coast (Abruzzo),42.23356,14.35889,12.33,26.0,143.0,5.25,riverbank,3,divergent,2,1
+TRX-0015,Tyrrhenian Bay (Campania),40.91957,14.35481,12.24,18.0,326.3,6.17,gravel,1,transitional,1,1
+TRX-0016,California Central Coast,37.08931,-121.92133,9.64,23.0,100.5,8.55,defence structure,4,transitional,1,1
+TRX-0017,Gold Coast Spit,-27.83012,153.40545,3.7,3.0,155.2,12.15,sandy,0,convergent,0,0
+TRX-0018,Ionian Barrier Spit,39.37022,16.35942,4.67,17.0,115.2,13.2,sandy,0,convergent,0,0
+TRX-0019,Gold Coast Spit,-28.0271,153.41189,5.56,4.0,58.8,10.1,gravel,1,transitional,1,0
+TRX-0020,Tyrrhenian Bay (Campania),40.71818,14.32846,10.17,4.0,119.5,6.97,gravel,1,transitional,1,0
+TRX-0021,North Sea Barrier Island,53.48879,7.31235,1.68,26.0,364.5,11.65,sandy,0,divergent,2,1
+TRX-0022,Ionian Barrier Spit,39.39989,16.49569,3.3,13.0,381.0,6.64,sandy,0,transitional,1,1
+TRX-0023,Gold Coast Spit,-28.01443,153.47898,9.35,26.0,242.3,13.84,sandy,0,convergent,0,1
+TRX-0024,Adriatic Central Coast (Abruzzo),42.42439,14.26715,7.63,17.0,387.8,11.4,sandy,0,transitional,1,1
+TRX-0025,Ligurian Littoral,44.17056,9.07039,10.88,13.0,68.0,16.07,sandy,0,transitional,1,0
+TRX-0026,Outer Banks Transect,35.93041,-75.68872,9.18,8.0,126.2,6.2,dune,2,transitional,1,0
+TRX-0027,Tyrrhenian Bay (Campania),40.70279,14.29635,7.39,4.0,49.3,7.27,sandy,0,divergent,2,0
+TRX-0028,Outer Banks Transect,35.7355,-75.61854,7.16,10.0,264.7,17.33,dune,2,convergent,0,0
+TRX-0029,North Sea Barrier Island,53.62953,7.08108,11.07,9.0,66.2,5.89,gravel,1,convergent,0,0
+TRX-0030,Ionian Barrier Spit,39.55625,16.60587,6.71,9.0,382.1,15.5,sandy,0,transitional,1,1
+TRX-0031,North Sea Barrier Island,53.36323,7.15007,2.33,9.0,84.6,10.24,dune,2,transitional,1,0
+TRX-0032,Ligurian Littoral,44.31368,9.30038,7.62,5.0,191.9,5.04,sandy,0,divergent,2,1
+TRX-0033,Adriatic Central Coast (Abruzzo),42.46968,14.31302,3.72,4.0,161.5,11.78,riverbank,3,divergent,2,0
+TRX-0034,Ionian Barrier Spit,39.60938,16.64286,10.29,14.0,29.9,14.08,sandy,0,divergent,2,0
+TRX-0035,Ionian Barrier Spit,39.43004,16.58621,2.06,28.0,35.5,10.62,sandy,0,divergent,2,0
+TRX-0036,Ionian Barrier Spit,39.41688,16.54801,5.46,9.0,365.7,17.07,sandy,0,transitional,1,1
+TRX-0037,California Central Coast,37.00386,-121.9469,4.67,1.0,66.1,17.12,sandy,0,divergent,2,0
+TRX-0038,California Central Coast,36.90371,-121.96407,5.91,17.0,66.3,16.19,sandy,0,convergent,0,0
+TRX-0039,California Central Coast,36.80051,-121.92233,7.1,24.0,396.1,14.08,sandy,0,transitional,1,1
+TRX-0040,Outer Banks Transect,35.84902,-75.71261,11.33,17.0,143.7,9.81,gravel,1,convergent,0,1
+TRX-0041,Ligurian Littoral,44.20755,9.24948,5.24,24.0,381.1,12.5,sandy,0,transitional,1,1
+TRX-0042,California Central Coast,37.03573,-122.018,4.57,15.0,196.9,7.28,gravel,1,divergent,2,1
+TRX-0043,Ligurian Littoral,44.34766,9.13514,8.57,20.0,154.1,15.14,dune,2,transitional,1,1
+TRX-0044,Adriatic Central Coast (Abruzzo),42.21386,14.54518,7.95,25.0,49.1,9.89,dune,2,convergent,0,1
+TRX-0045,California Central Coast,36.94831,-122.1268,8.48,1.0,377.1,15.69,riverbank,3,divergent,2,1
+TRX-0046,Gold Coast Spit,-28.08493,153.34476,10.73,15.0,73.3,10.54,gravel,1,transitional,1,1
+TRX-0047,Outer Banks Transect,35.93501,-75.48257,7.97,24.0,376.8,10.05,defence structure,4,transitional,1,1
+TRX-0048,Gold Coast Spit,-28.02224,153.34417,8.26,25.0,331.1,10.8,sandy,0,transitional,1,1
+TRX-0049,North Sea Barrier Island,53.42035,7.15075,11.25,3.0,75.3,7.51,dune,2,divergent,2,1
+TRX-0050,Gold Coast Spit,-27.97527,153.33205,5.72,25.0,253.6,13.54,riverbank,3,divergent,2,1
+TRX-0051,California Central Coast,36.94309,-121.91718,4.29,13.0,361.4,16.89,gravel,1,divergent,2,0
+TRX-0052,Ionian Barrier Spit,39.49647,16.43188,6.48,13.0,154.5,13.33,gravel,1,convergent,0,0
+TRX-0053,Gold Coast Spit,-27.82414,153.56422,7.05,13.0,256.8,13.12,sandy,0,transitional,1,1
+TRX-0054,North Sea Barrier Island,53.46373,7.1135,4.62,25.0,371.9,8.12,defence structure,4,transitional,1,1
+TRX-0055,Tyrrhenian Bay (Campania),40.84109,14.33471,1.41,12.0,109.7,5.39,defence structure,4,convergent,0,0
+TRX-0056,Adriatic Central Coast (Abruzzo),42.3864,14.32156,6.34,4.0,245.6,7.33,dune,2,divergent,2,1
+TRX-0057,Ligurian Littoral,44.33177,9.33912,9.2,25.0,347.7,17.04,sandy,0,convergent,0,1
+TRX-0058,California Central Coast,36.919,-121.9855,1.69,23.0,352.2,7.66,dune,2,transitional,1,1
+TRX-0059,Tyrrhenian Bay (Campania),40.93887,14.27978,1.28,18.0,191.4,9.32,gravel,1,transitional,1,0
+TRX-0060,Tyrrhenian Bay (Campania),40.83006,14.21866,11.23,15.0,302.9,10.16,dune,2,divergent,2,1
+TRX-0061,North Sea Barrier Island,53.53477,7.32589,9.86,15.0,194.2,14.0,sandy,0,divergent,2,1
+TRX-0062,Gold Coast Spit,-28.02684,153.40941,7.94,13.0,154.6,10.93,sandy,0,transitional,1,0
+TRX-0063,Outer Banks Transect,35.88935,-75.6479,11.1,23.0,372.0,11.73,gravel,1,convergent,0,1
+TRX-0064,Ionian Barrier Spit,39.55718,16.54377,6.54,26.0,26.9,8.33,gravel,1,convergent,0,1
+TRX-0065,Outer Banks Transect,35.79198,-75.59072,5.78,24.0,240.2,9.07,gravel,1,transitional,1,1
+TRX-0066,Outer Banks Transect,35.68587,-75.58924,9.72,6.0,96.6,14.1,sandy,0,transitional,1,0
+TRX-0067,North Sea Barrier Island,53.64415,7.29979,4.27,12.0,91.8,4.68,gravel,1,convergent,0,0
+TRX-0068,Ligurian Littoral,44.34136,9.27584,2.0,1.0,249.6,10.6,gravel,1,convergent,0,0
+TRX-0069,Adriatic Central Coast (Abruzzo),42.27574,14.50852,2.13,3.0,180.3,5.46,dune,2,convergent,0,0
+TRX-0070,North Sea Barrier Island,53.37555,7.12446,7.33,14.0,262.5,14.78,sandy,0,transitional,1,1
+TRX-0071,Gold Coast Spit,-27.82745,153.35921,7.69,14.0,142.2,12.57,dune,2,divergent,2,1
+TRX-0072,Ionian Barrier Spit,39.42939,16.37436,3.61,18.0,50.0,4.53,gravel,1,transitional,1,0
+TRX-0073,North Sea Barrier Island,53.35979,7.13643,4.11,28.0,201.6,13.44,defence structure,4,divergent,2,1
+TRX-0074,Ionian Barrier Spit,39.47754,16.51337,8.38,9.0,350.7,5.43,sandy,0,transitional,1,1
+TRX-0075,North Sea Barrier Island,53.48175,7.19061,4.36,13.0,397.1,11.01,gravel,1,convergent,0,1
+TRX-0076,Outer Banks Transect,35.83111,-75.74224,3.48,22.0,354.4,11.98,defence structure,4,divergent,2,1
+TRX-0077,North Sea Barrier Island,53.52287,7.27893,2.85,17.0,280.6,16.41,sandy,0,transitional,1,0
+TRX-0078,Tyrrhenian Bay (Campania),40.841,14.2325,4.56,4.0,363.1,8.79,dune,2,convergent,0,1
+TRX-0079,California Central Coast,37.04407,-122.03497,6.12,11.0,121.0,6.01,dune,2,divergent,2,1
+TRX-0080,Gold Coast Spit,-27.97603,153.32627,5.03,25.0,219.4,10.25,sandy,0,convergent,0,1
+TRX-0081,Ligurian Littoral,44.4283,9.18143,8.97,4.0,31.5,12.69,riverbank,3,divergent,2,0
+TRX-0082,California Central Coast,36.82796,-121.90232,11.48,15.0,398.8,12.92,sandy,0,divergent,2,1
+TRX-0083,North Sea Barrier Island,53.50266,7.13203,10.57,16.0,117.5,11.67,gravel,1,divergent,2,0
+TRX-0084,Tyrrhenian Bay (Campania),40.78287,14.347,5.65,26.0,223.1,15.17,sandy,0,convergent,0,1
+TRX-0085,Gold Coast Spit,-27.84042,153.40396,6.47,11.0,240.8,11.56,gravel,1,transitional,1,1
+TRX-0086,California Central Coast,36.87007,-121.96734,1.31,24.0,209.2,16.37,gravel,1,divergent,2,1
+TRX-0087,Ligurian Littoral,44.2986,9.06111,6.68,19.0,152.8,5.8,riverbank,3,convergent,0,1
+TRX-0088,Ligurian Littoral,44.27299,9.24643,2.61,16.0,332.6,7.95,dune,2,transitional,1,1
+TRX-0089,Tyrrhenian Bay (Campania),40.95553,14.3657,10.85,13.0,401.7,12.65,riverbank,3,transitional,1,1
+TRX-0090,Ionian Barrier Spit,39.53935,16.62628,12.47,24.0,56.2,17.22,dune,2,divergent,2,1
+TRX-0091,Tyrrhenian Bay (Campania),40.8331,14.3182,11.37,2.0,149.7,5.23,sandy,0,transitional,1,1
+TRX-0092,Ligurian Littoral,44.201,9.07369,10.99,20.0,293.3,10.97,dune,2,convergent,0,1
+TRX-0093,North Sea Barrier Island,53.48787,7.25005,11.32,15.0,380.5,13.31,sandy,0,transitional,1,1
+TRX-0094,California Central Coast,37.00709,-122.06295,4.33,13.0,361.3,5.89,gravel,1,transitional,1,1
+TRX-0095,North Sea Barrier Island,53.64781,7.13857,12.24,22.0,178.3,4.61,riverbank,3,divergent,2,1
+TRX-0096,Gold Coast Spit,-27.85015,153.54088,9.88,8.0,262.8,9.08,dune,2,transitional,1,1
+TRX-0097,Ligurian Littoral,44.33847,9.32102,8.36,10.0,335.4,4.93,sandy,0,convergent,0,1
+TRX-0098,California Central Coast,36.85269,-122.16035,7.11,12.0,232.3,16.38,riverbank,3,convergent,0,0
+TRX-0099,Gold Coast Spit,-27.80978,153.35854,10.98,26.0,66.1,17.02,sandy,0,divergent,2,1
+TRX-0100,California Central Coast,37.09018,-121.95862,5.08,26.0,177.8,7.94,sandy,0,transitional,1,1
+TRX-0101,North Sea Barrier Island,53.52537,7.29673,11.8,4.0,289.9,10.63,dune,2,divergent,2,1
+TRX-0102,Tyrrhenian Bay (Campania),40.89062,14.24928,9.0,21.0,183.3,6.32,defence structure,4,transitional,1,1
+TRX-0103,Gold Coast Spit,-28.06516,153.34044,7.09,13.0,201.5,13.22,dune,2,divergent,2,0
+TRX-0104,Ligurian Littoral,44.41562,9.24648,10.55,20.0,183.2,16.87,sandy,0,transitional,1,1
+TRX-0105,Gold Coast Spit,-27.96659,153.34083,5.04,22.0,166.9,16.22,dune,2,convergent,0,0
+TRX-0106,Gold Coast Spit,-28.0725,153.33363,8.28,1.0,40.2,8.84,defence structure,4,divergent,2,0
+TRX-0107,Ionian Barrier Spit,39.37058,16.57955,3.22,7.0,345.2,7.53,dune,2,divergent,2,1
+TRX-0108,Ligurian Littoral,44.44626,9.21206,10.14,4.0,284.4,4.84,sandy,0,divergent,2,1
+TRX-0109,Ionian Barrier Spit,39.52666,16.35473,3.9,5.0,316.7,11.34,dune,2,transitional,1,1
+TRX-0110,Tyrrhenian Bay (Campania),40.8356,14.17646,8.0,24.0,333.3,15.77,gravel,1,transitional,1,1
+TRX-0111,Adriatic Central Coast (Abruzzo),42.21825,14.39369,5.5,22.0,63.2,13.76,gravel,1,divergent,2,0
+TRX-0112,Ligurian Littoral,44.2325,9.23992,7.22,11.0,172.4,12.27,sandy,0,transitional,1,1
+TRX-0113,California Central Coast,36.82975,-121.98947,10.78,21.0,371.1,11.67,riverbank,3,transitional,1,1
+TRX-0114,Gold Coast Spit,-27.98038,153.48888,4.46,11.0,286.0,9.37,sandy,0,divergent,2,1
+TRX-0115,Tyrrhenian Bay (Campania),40.72737,14.13561,5.85,24.0,315.5,15.05,gravel,1,transitional,1,1
+TRX-0116,Tyrrhenian Bay (Campania),40.82324,14.37208,11.81,14.0,367.2,13.87,defence structure,4,transitional,1,1
+TRX-0117,Outer Banks Transect,35.68108,-75.59778,2.61,16.0,109.7,5.91,riverbank,3,transitional,1,0
+TRX-0118,California Central Coast,37.05355,-121.90764,10.38,20.0,290.0,11.74,dune,2,transitional,1,1
+TRX-0119,North Sea Barrier Island,53.35869,7.13198,9.72,11.0,160.4,6.86,sandy,0,transitional,1,1
+TRX-0120,Adriatic Central Coast (Abruzzo),42.22753,14.40914,5.2,15.0,156.4,9.31,dune,2,divergent,2,1
+TRX-0121,Tyrrhenian Bay (Campania),40.965,14.15667,9.63,2.0,289.6,8.04,dune,2,transitional,1,1
+TRX-0122,Tyrrhenian Bay (Campania),40.80355,14.14327,8.74,19.0,214.7,13.17,sandy,0,transitional,1,1
+TRX-0123,Adriatic Central Coast (Abruzzo),42.20231,14.34043,3.27,5.0,325.7,8.26,sandy,0,transitional,1,1
+TRX-0124,Ionian Barrier Spit,39.50008,16.60001,10.23,3.0,178.8,14.15,gravel,1,transitional,1,0
+TRX-0125,Tyrrhenian Bay (Campania),40.95863,14.28273,7.51,23.0,276.1,8.26,gravel,1,divergent,2,1
+TRX-0126,Gold Coast Spit,-27.85039,153.54593,1.83,28.0,62.3,10.16,gravel,1,convergent,0,1
+TRX-0127,North Sea Barrier Island,53.57374,7.11647,9.92,3.0,224.2,5.98,gravel,1,divergent,2,1
+TRX-0128,Ligurian Littoral,44.22088,9.09393,3.11,20.0,81.1,14.37,sandy,0,divergent,2,0
+TRX-0129,Gold Coast Spit,-27.96081,153.43912,7.58,22.0,389.7,11.84,dune,2,transitional,1,1
+TRX-0130,Ligurian Littoral,44.28193,9.19068,8.19,26.0,129.9,5.23,gravel,1,transitional,1,1
+TRX-0131,Gold Coast Spit,-28.08872,153.38062,4.16,21.0,365.7,15.62,dune,2,transitional,1,1
+TRX-0132,Adriatic Central Coast (Abruzzo),42.33492,14.49294,8.43,11.0,262.0,11.02,defence structure,4,transitional,1,1
+TRX-0133,Outer Banks Transect,35.94472,-75.7247,8.36,2.0,119.1,10.19,gravel,1,transitional,1,0
+TRX-0134,North Sea Barrier Island,53.46622,7.28234,8.74,2.0,335.7,12.91,sandy,0,convergent,0,1
+TRX-0135,California Central Coast,36.88524,-121.98288,8.48,20.0,369.3,8.83,dune,2,convergent,0,1
+TRX-0136,California Central Coast,36.83869,-121.98735,1.79,18.0,170.7,14.79,riverbank,3,transitional,1,1
+TRX-0137,Tyrrhenian Bay (Campania),40.89381,14.23702,5.03,12.0,143.5,16.87,sandy,0,divergent,2,0
+TRX-0138,Ligurian Littoral,44.17315,9.30333,1.98,25.0,235.9,14.1,gravel,1,transitional,1,1
+TRX-0139,Ligurian Littoral,44.32917,9.09628,2.92,23.0,328.4,15.02,sandy,0,transitional,1,1
+TRX-0140,Ionian Barrier Spit,39.64088,16.53318,9.6,26.0,199.6,11.44,sandy,0,divergent,2,1
+TRX-0141,Gold Coast Spit,-27.82881,153.3282,8.74,19.0,413.8,10.5,sandy,0,transitional,1,1
+TRX-0142,Ionian Barrier Spit,39.59038,16.39152,3.73,21.0,212.2,9.33,defence structure,4,divergent,2,1
+TRX-0143,Tyrrhenian Bay (Campania),40.78552,14.33894,3.99,17.0,78.9,10.19,defence structure,4,convergent,0,0
+TRX-0144,Adriatic Central Coast (Abruzzo),42.32447,14.36894,5.18,13.0,417.8,9.37,sandy,0,divergent,2,1
+TRX-0145,Outer Banks Transect,35.88741,-75.70872,4.16,27.0,209.0,15.3,dune,2,transitional,1,1
+TRX-0146,Adriatic Central Coast (Abruzzo),42.27678,14.50049,7.22,24.0,263.6,10.0,dune,2,convergent,0,1
+TRX-0147,Tyrrhenian Bay (Campania),40.71432,14.23595,10.09,15.0,45.1,15.38,gravel,1,transitional,1,0
+TRX-0148,Ligurian Littoral,44.23738,9.05047,4.93,19.0,186.6,13.14,sandy,0,divergent,2,0
+TRX-0149,Tyrrhenian Bay (Campania),40.98602,14.27322,10.0,17.0,241.7,9.58,gravel,1,transitional,1,1
+TRX-0150,Adriatic Central Coast (Abruzzo),42.30713,14.27027,3.62,22.0,271.3,14.53,dune,2,transitional,1,1
+TRX-0151,Adriatic Central Coast (Abruzzo),42.30569,14.35156,8.32,27.0,331.7,10.54,dune,2,transitional,1,1
+TRX-0152,Gold Coast Spit,-28.0889,153.33048,10.06,2.0,146.2,8.53,gravel,1,divergent,2,0
+TRX-0153,Gold Coast Spit,-28.02401,153.49599,3.04,12.0,364.9,5.12,dune,2,convergent,0,1
+TRX-0154,California Central Coast,37.02299,-121.93161,5.32,6.0,218.5,10.97,defence structure,4,transitional,1,0
+TRX-0155,Tyrrhenian Bay (Campania),40.91812,14.13368,7.85,27.0,92.2,8.32,sandy,0,transitional,1,1
+TRX-0156,California Central Coast,36.84999,-122.06683,6.03,24.0,368.0,9.08,defence structure,4,convergent,0,1
+TRX-0157,Adriatic Central Coast (Abruzzo),42.22251,14.44125,5.05,26.0,320.0,6.58,sandy,0,divergent,2,1
+TRX-0158,Ligurian Littoral,44.17017,9.28355,5.09,13.0,399.8,4.92,sandy,0,transitional,1,1
+TRX-0159,Outer Banks Transect,35.7616,-75.52107,7.51,17.0,166.8,8.59,sandy,0,divergent,2,1
+TRX-0160,California Central Coast,37.07406,-122.16467,9.87,23.0,198.5,17.45,sandy,0,divergent,2,1
+TRX-0161,Gold Coast Spit,-28.03995,153.31072,1.67,6.0,379.5,10.29,sandy,0,transitional,1,1
+TRX-0162,Outer Banks Transect,35.86286,-75.585,4.2,10.0,360.5,13.75,defence structure,4,transitional,1,0
+TRX-0163,Outer Banks Transect,35.80263,-75.71359,3.15,5.0,114.7,10.92,sandy,0,transitional,1,0
+TRX-0164,Ligurian Littoral,44.33358,9.07586,4.42,23.0,307.5,11.33,dune,2,divergent,2,1
+TRX-0165,Tyrrhenian Bay (Campania),40.7376,14.20511,1.67,15.0,292.0,8.98,riverbank,3,divergent,2,1
+TRX-0166,Ligurian Littoral,44.27979,9.32321,1.45,4.0,227.2,8.45,sandy,0,divergent,2,0
+TRX-0167,Ionian Barrier Spit,39.45381,16.63227,11.27,28.0,51.5,7.05,defence structure,4,convergent,0,1
+TRX-0168,Tyrrhenian Bay (Campania),40.85077,14.16059,11.82,5.0,88.5,12.62,defence structure,4,transitional,1,0
+TRX-0169,Adriatic Central Coast (Abruzzo),42.44757,14.25851,1.33,21.0,328.4,7.94,sandy,0,transitional,1,1
+TRX-0170,North Sea Barrier Island,53.54257,7.14063,3.67,26.0,294.0,8.37,sandy,0,convergent,0,1
+TRX-0171,Gold Coast Spit,-27.97531,153.40933,4.78,5.0,145.0,13.84,dune,2,divergent,2,0
+TRX-0172,Outer Banks Transect,35.80449,-75.71814,3.63,4.0,127.0,7.72,sandy,0,convergent,0,0
+TRX-0173,California Central Coast,37.05925,-122.07456,12.06,6.0,345.4,16.64,dune,2,convergent,0,1
+TRX-0174,Gold Coast Spit,-27.95037,153.36256,1.07,13.0,222.2,17.07,sandy,0,transitional,1,1
+TRX-0175,Adriatic Central Coast (Abruzzo),42.28441,14.42926,10.66,22.0,208.2,11.48,riverbank,3,transitional,1,1
+TRX-0176,California Central Coast,36.90978,-122.07983,7.47,7.0,165.0,8.25,gravel,1,transitional,1,0
+TRX-0177,North Sea Barrier Island,53.59759,7.23697,7.95,5.0,410.0,9.62,riverbank,3,transitional,1,1
+TRX-0178,Ionian Barrier Spit,39.53074,16.47042,1.27,2.0,74.8,8.83,gravel,1,transitional,1,0
+TRX-0179,Ligurian Littoral,44.24839,9.23392,2.7,20.0,315.7,8.39,sandy,0,divergent,2,1
+TRX-0180,North Sea Barrier Island,53.49247,7.05499,4.68,4.0,412.0,12.09,riverbank,3,divergent,2,1
+TRX-0181,Adriatic Central Coast (Abruzzo),42.37907,14.32966,8.47,25.0,251.4,7.46,sandy,0,transitional,1,1
+TRX-0182,California Central Coast,36.84433,-121.99578,1.17,23.0,64.0,4.75,sandy,0,convergent,0,0
+TRX-0183,Ionian Barrier Spit,39.47311,16.58249,11.57,28.0,359.4,13.96,dune,2,transitional,1,1
+TRX-0184,Gold Coast Spit,-27.94236,153.36413,2.83,18.0,156.9,9.11,dune,2,divergent,2,0
+TRX-0185,North Sea Barrier Island,53.53302,7.10768,3.68,18.0,139.4,16.74,defence structure,4,divergent,2,0
+TRX-0186,Gold Coast Spit,-28.00489,153.37464,11.72,26.0,308.7,8.24,dune,2,transitional,1,1
+TRX-0187,California Central Coast,37.04551,-121.91362,10.21,10.0,36.8,16.92,sandy,0,divergent,2,0
+TRX-0188,Ionian Barrier Spit,39.41062,16.51157,11.72,23.0,128.6,5.92,dune,2,convergent,0,1
+TRX-0189,Adriatic Central Coast (Abruzzo),42.40095,14.40931,8.26,2.0,60.1,8.79,gravel,1,transitional,1,0
+TRX-0190,Ligurian Littoral,44.27207,9.33051,11.08,16.0,280.2,14.33,sandy,0,convergent,0,1
+TRX-0191,Adriatic Central Coast (Abruzzo),42.47238,14.27684,7.52,18.0,315.5,15.55,sandy,0,divergent,2,1
+TRX-0192,Adriatic Central Coast (Abruzzo),42.49915,14.3691,6.6,24.0,404.9,16.54,riverbank,3,convergent,0,1
+TRX-0193,Tyrrhenian Bay (Campania),40.97854,14.21051,6.12,21.0,237.3,10.92,defence structure,4,divergent,2,1
+TRX-0194,Tyrrhenian Bay (Campania),40.79921,14.32934,8.38,23.0,94.5,14.08,riverbank,3,transitional,1,1
+TRX-0195,Ionian Barrier Spit,39.40265,16.60684,11.3,27.0,191.1,8.76,gravel,1,convergent,0,1
+TRX-0196,Ionian Barrier Spit,39.35205,16.46507,6.03,9.0,401.6,8.43,dune,2,convergent,0,1
+TRX-0197,Outer Banks Transect,35.85783,-75.73136,2.18,10.0,83.9,13.42,defence structure,4,divergent,2,0
+TRX-0198,North Sea Barrier Island,53.46026,7.11625,12.0,16.0,81.3,14.22,dune,2,transitional,1,0
+TRX-0199,Gold Coast Spit,-27.87279,153.5106,10.46,25.0,119.0,14.31,riverbank,3,convergent,0,1
+TRX-0200,Tyrrhenian Bay (Campania),40.97517,14.14366,10.5,17.0,100.9,11.48,sandy,0,divergent,2,1
+TRX-0201,Gold Coast Spit,-28.06513,153.33162,7.62,3.0,379.6,10.29,sandy,0,convergent,0,1
+TRX-0202,Gold Coast Spit,-27.89817,153.36245,1.05,9.0,346.6,14.2,dune,2,convergent,0,0
+TRX-0203,Outer Banks Transect,35.86012,-75.58765,1.5,3.0,414.5,10.64,sandy,0,convergent,0,1
+TRX-0204,California Central Coast,36.91234,-121.9326,6.05,13.0,170.3,13.38,dune,2,transitional,1,1
+TRX-0205,Outer Banks Transect,35.68559,-75.45215,5.4,5.0,311.1,7.39,sandy,0,convergent,0,1
+TRX-0206,California Central Coast,36.95958,-121.95299,3.7,12.0,82.0,6.95,riverbank,3,divergent,2,0
+TRX-0207,Adriatic Central Coast (Abruzzo),42.44284,14.37577,9.76,1.0,116.3,5.37,dune,2,transitional,1,0
+TRX-0208,Ionian Barrier Spit,39.57216,16.47068,3.54,7.0,321.8,14.59,sandy,0,divergent,2,0
+TRX-0209,Ionian Barrier Spit,39.59474,16.56946,4.53,20.0,329.0,15.14,sandy,0,divergent,2,1
+TRX-0210,California Central Coast,36.89015,-122.18171,11.9,24.0,384.6,12.64,gravel,1,transitional,1,1
+TRX-0211,Outer Banks Transect,35.93248,-75.5486,9.99,11.0,298.5,9.81,sandy,0,convergent,0,1
+TRX-0212,Ionian Barrier Spit,39.44022,16.56227,10.23,2.0,245.0,17.08,gravel,1,convergent,0,0
+TRX-0213,Ionian Barrier Spit,39.4265,16.44908,1.73,15.0,358.9,5.7,dune,2,convergent,0,1
+TRX-0214,Adriatic Central Coast (Abruzzo),42.46209,14.30645,9.71,24.0,288.6,7.32,sandy,0,divergent,2,1
+TRX-0215,North Sea Barrier Island,53.63711,7.0546,11.76,24.0,66.9,17.49,gravel,1,convergent,0,0
+TRX-0216,Ionian Barrier Spit,39.51562,16.58265,5.25,18.0,279.5,8.51,sandy,0,divergent,2,1
+TRX-0217,Gold Coast Spit,-28.07042,153.5644,6.29,27.0,148.1,7.14,sandy,0,convergent,0,1
+TRX-0218,Adriatic Central Coast (Abruzzo),42.27823,14.53043,7.58,14.0,138.1,7.05,sandy,0,transitional,1,0
+TRX-0219,Ionian Barrier Spit,39.49979,16.54638,8.81,9.0,325.3,10.85,dune,2,divergent,2,1
+TRX-0220,Outer Banks Transect,35.70078,-75.53391,6.51,18.0,416.1,16.94,gravel,1,divergent,2,1
+TRX-0221,Tyrrhenian Bay (Campania),40.98356,14.31046,9.74,14.0,75.0,12.7,sandy,0,convergent,0,0
+TRX-0222,Adriatic Central Coast (Abruzzo),42.38535,14.45003,8.01,16.0,283.7,4.7,gravel,1,transitional,1,1
+TRX-0223,Adriatic Central Coast (Abruzzo),42.35883,14.33242,12.24,1.0,220.9,13.57,gravel,1,divergent,2,1
+TRX-0224,Ligurian Littoral,44.22229,9.23593,3.75,12.0,126.9,9.66,sandy,0,transitional,1,1
+TRX-0225,Ionian Barrier Spit,39.64707,16.41776,8.8,28.0,52.2,17.39,dune,2,convergent,0,0
+TRX-0226,Gold Coast Spit,-28.08317,153.27284,2.81,16.0,358.1,12.88,sandy,0,divergent,2,1
+TRX-0227,Tyrrhenian Bay (Campania),40.96844,14.38575,3.49,28.0,296.9,11.87,sandy,0,divergent,2,1
+TRX-0228,Adriatic Central Coast (Abruzzo),42.25381,14.50513,0.98,7.0,254.8,14.28,dune,2,transitional,1,0
+TRX-0229,Tyrrhenian Bay (Campania),40.78978,14.27919,7.43,28.0,175.7,16.15,sandy,0,divergent,2,1
+TRX-0230,Tyrrhenian Bay (Campania),40.85024,14.4023,1.43,14.0,112.9,5.49,dune,2,transitional,1,1
+TRX-0231,California Central Coast,37.09068,-122.10209,8.22,26.0,417.0,10.88,sandy,0,divergent,2,1
+TRX-0232,California Central Coast,36.82571,-122.01442,10.14,23.0,49.4,7.98,sandy,0,divergent,2,1
+TRX-0233,Ligurian Littoral,44.3719,9.145,2.05,1.0,397.2,10.28,dune,2,convergent,0,1
+TRX-0234,California Central Coast,36.83099,-122.17311,7.28,20.0,259.2,8.72,gravel,1,convergent,0,1
+TRX-0235,California Central Coast,37.03375,-121.98255,7.35,8.0,248.8,6.7,gravel,1,convergent,0,1
+TRX-0236,Tyrrhenian Bay (Campania),40.75016,14.19279,4.31,26.0,50.8,7.77,sandy,0,transitional,1,1
+TRX-0237,Ionian Barrier Spit,39.48736,16.39065,0.88,13.0,152.9,12.56,riverbank,3,transitional,1,0
+TRX-0238,Ligurian Littoral,44.24013,9.23096,8.93,16.0,145.7,17.04,defence structure,4,convergent,0,0
+TRX-0239,Gold Coast Spit,-27.80967,153.50459,4.61,9.0,346.6,9.61,sandy,0,transitional,1,1
+TRX-0240,Adriatic Central Coast (Abruzzo),42.4859,14.38849,9.09,15.0,339.1,15.31,sandy,0,divergent,2,1
+TRX-0241,California Central Coast,37.00189,-122.15825,4.34,9.0,283.5,13.8,riverbank,3,convergent,0,1
+TRX-0242,California Central Coast,36.96031,-121.92295,10.97,14.0,237.5,14.78,sandy,0,divergent,2,1
+TRX-0243,Tyrrhenian Bay (Campania),40.73281,14.18447,8.58,6.0,278.8,5.08,defence structure,4,transitional,1,1
+TRX-0244,California Central Coast,36.83178,-122.17042,3.4,24.0,227.5,12.05,dune,2,transitional,1,1
+TRX-0245,California Central Coast,36.93892,-121.99613,8.88,5.0,158.0,4.82,sandy,0,transitional,1,1
+TRX-0246,Ligurian Littoral,44.2545,9.15292,9.98,17.0,213.2,10.69,gravel,1,transitional,1,1
+TRX-0247,Outer Banks Transect,35.67015,-75.7366,9.12,1.0,359.7,12.92,dune,2,convergent,0,1
+TRX-0248,Ligurian Littoral,44.31557,9.1493,5.79,15.0,112.7,9.77,sandy,0,transitional,1,0
+TRX-0249,California Central Coast,36.91867,-121.97878,11.13,15.0,256.9,9.55,dune,2,convergent,0,1
+TRX-0250,Tyrrhenian Bay (Campania),40.8732,14.34985,7.08,12.0,150.4,10.45,sandy,0,divergent,2,0
+TRX-0251,Outer Banks Transect,35.82909,-75.56661,7.67,12.0,160.8,10.45,sandy,0,transitional,1,1
+TRX-0252,Tyrrhenian Bay (Campania),40.90163,14.20396,3.59,4.0,93.2,13.51,gravel,1,transitional,1,0
+TRX-0253,Ligurian Littoral,44.32244,9.17691,6.49,18.0,297.4,12.89,defence structure,4,transitional,1,1
+TRX-0254,Outer Banks Transect,35.9026,-75.56418,10.93,1.0,213.8,7.04,gravel,1,transitional,1,1
+TRX-0255,Gold Coast Spit,-27.97726,153.41752,9.11,15.0,215.5,5.57,sandy,0,divergent,2,1
+TRX-0256,North Sea Barrier Island,53.40046,7.1872,9.49,25.0,218.1,11.14,dune,2,convergent,0,1
+TRX-0257,Outer Banks Transect,35.81261,-75.52296,9.69,15.0,238.5,17.37,sandy,0,divergent,2,1
+TRX-0258,Adriatic Central Coast (Abruzzo),42.33492,14.35457,10.36,15.0,366.1,6.03,riverbank,3,convergent,0,1
+TRX-0259,Outer Banks Transect,35.90831,-75.56692,5.81,20.0,75.7,7.19,sandy,0,convergent,0,0
+TRX-0260,Ligurian Littoral,44.2471,9.26122,4.19,9.0,401.0,11.19,defence structure,4,divergent,2,1
+TRX-0261,Ligurian Littoral,44.43883,9.28571,11.55,9.0,366.8,6.15,riverbank,3,convergent,0,1
+TRX-0262,California Central Coast,36.94684,-122.02677,3.94,14.0,170.1,5.48,riverbank,3,divergent,2,0
+TRX-0263,California Central Coast,36.95468,-122.11653,11.76,12.0,201.9,10.84,dune,2,divergent,2,1
+TRX-0264,Gold Coast Spit,-27.90955,153.47919,10.75,26.0,233.8,7.33,gravel,1,convergent,0,1
+TRX-0265,North Sea Barrier Island,53.44686,7.13508,7.2,5.0,246.5,10.81,sandy,0,transitional,1,1
+TRX-0266,Gold Coast Spit,-28.09512,153.54883,2.65,15.0,20.3,16.95,sandy,0,transitional,1,0
+TRX-0267,Ligurian Littoral,44.41464,9.14056,11.03,9.0,57.3,9.19,sandy,0,transitional,1,0
+TRX-0268,North Sea Barrier Island,53.5678,7.27657,5.82,3.0,301.5,4.51,gravel,1,convergent,0,1
+TRX-0269,Ionian Barrier Spit,39.50583,16.48352,0.89,11.0,346.8,17.35,gravel,1,convergent,0,0
+TRX-0270,Tyrrhenian Bay (Campania),40.73096,14.22027,4.3,13.0,329.4,14.29,sandy,0,divergent,2,1
+TRX-0271,Ligurian Littoral,44.17052,9.21899,7.94,6.0,196.0,13.89,dune,2,convergent,0,0
+TRX-0272,Ionian Barrier Spit,39.37601,16.38014,9.6,19.0,312.0,9.07,gravel,1,divergent,2,1
+TRX-0273,Ionian Barrier Spit,39.43309,16.37527,7.27,20.0,308.5,8.2,defence structure,4,convergent,0,1
+TRX-0274,Ionian Barrier Spit,39.50532,16.50286,9.55,10.0,278.5,14.69,riverbank,3,convergent,0,1
+TRX-0275,California Central Coast,36.83382,-122.05013,7.75,17.0,375.5,4.66,sandy,0,transitional,1,1
+TRX-0276,California Central Coast,36.90962,-121.99512,9.72,25.0,49.2,12.14,sandy,0,convergent,0,1
+TRX-0277,Adriatic Central Coast (Abruzzo),42.4846,14.36939,4.15,23.0,220.4,9.9,dune,2,convergent,0,1
+TRX-0278,North Sea Barrier Island,53.37508,7.07371,11.57,26.0,82.2,8.75,dune,2,divergent,2,1
+TRX-0279,Tyrrhenian Bay (Campania),40.79305,14.24125,11.96,8.0,43.2,5.62,gravel,1,transitional,1,0
+TRX-0280,Ligurian Littoral,44.18583,9.26237,9.01,6.0,218.6,9.01,gravel,1,divergent,2,1
+TRX-0281,North Sea Barrier Island,53.40009,7.08808,9.94,9.0,313.2,6.03,riverbank,3,transitional,1,1
+TRX-0282,North Sea Barrier Island,53.5637,7.223,1.7,15.0,224.3,5.22,riverbank,3,convergent,0,1
+TRX-0283,Ligurian Littoral,44.22653,9.08087,7.51,24.0,66.1,14.13,sandy,0,divergent,2,1
+TRX-0284,Outer Banks Transect,35.76489,-75.70497,11.69,28.0,34.1,14.94,dune,2,transitional,1,1
+TRX-0285,Ionian Barrier Spit,39.44654,16.47488,9.23,9.0,350.4,11.93,sandy,0,transitional,1,1
+TRX-0286,Adriatic Central Coast (Abruzzo),42.48622,14.27068,6.24,10.0,329.4,8.54,sandy,0,transitional,1,1
+TRX-0287,Outer Banks Transect,35.7102,-75.58086,4.36,20.0,117.0,9.29,defence structure,4,divergent,2,0
+TRX-0288,Ionian Barrier Spit,39.39517,16.62972,1.08,18.0,158.6,15.41,riverbank,3,divergent,2,0
+TRX-0289,Adriatic Central Coast (Abruzzo),42.42768,14.36288,9.44,10.0,61.6,11.39,sandy,0,transitional,1,1
+TRX-0290,North Sea Barrier Island,53.37791,7.32638,11.3,17.0,185.2,16.14,gravel,1,divergent,2,1
+TRX-0291,Tyrrhenian Bay (Campania),40.85163,14.30116,5.41,19.0,247.1,10.15,defence structure,4,convergent,0,1
+TRX-0292,California Central Coast,37.01022,-121.97939,4.52,9.0,113.4,16.77,sandy,0,divergent,2,0
+TRX-0293,Tyrrhenian Bay (Campania),40.74662,14.15931,6.25,14.0,68.3,9.16,dune,2,transitional,1,0
+TRX-0294,Tyrrhenian Bay (Campania),40.74728,14.31582,10.47,23.0,261.3,7.3,riverbank,3,convergent,0,1
+TRX-0295,Ionian Barrier Spit,39.64052,16.46887,1.37,10.0,124.1,17.38,sandy,0,transitional,1,0
+TRX-0296,Ionian Barrier Spit,39.37842,16.38057,10.09,4.0,24.8,15.29,defence structure,4,convergent,0,0
+TRX-0297,California Central Coast,36.91167,-122.01091,8.34,19.0,254.4,16.43,sandy,0,divergent,2,1
+TRX-0298,Ligurian Littoral,44.17759,9.30418,10.26,4.0,37.1,10.49,sandy,0,transitional,1,0
+TRX-0299,California Central Coast,36.94884,-122.08518,5.79,12.0,105.9,6.93,sandy,0,divergent,2,1
+TRX-0300,Ionian Barrier Spit,39.54418,16.49967,11.13,16.0,44.4,8.14,sandy,0,convergent,0,1
+TRX-0301,Ionian Barrier Spit,39.53923,16.59065,10.1,13.0,332.8,9.17,gravel,1,transitional,1,1
+TRX-0302,California Central Coast,36.88113,-122.19218,7.79,1.0,378.3,14.62,sandy,0,divergent,2,1
+TRX-0303,Outer Banks Transect,35.88005,-75.45012,12.2,4.0,119.1,7.63,gravel,1,divergent,2,0
+TRX-0304,Ionian Barrier Spit,39.52271,16.6448,5.34,27.0,416.6,6.76,sandy,0,transitional,1,1
+TRX-0305,Outer Banks Transect,35.92419,-75.74154,9.0,19.0,245.4,11.82,sandy,0,divergent,2,1
+TRX-0306,North Sea Barrier Island,53.40267,7.06139,1.46,20.0,107.5,11.34,sandy,0,divergent,2,0
+TRX-0307,Ionian Barrier Spit,39.59193,16.45223,2.88,26.0,357.7,8.71,sandy,0,transitional,1,1
+TRX-0308,Outer Banks Transect,35.93817,-75.63792,11.82,13.0,254.4,8.88,sandy,0,divergent,2,1
+TRX-0309,California Central Coast,37.03755,-121.9118,8.4,6.0,302.9,11.81,riverbank,3,transitional,1,1
+TRX-0310,Ligurian Littoral,44.26352,9.2702,4.25,6.0,311.5,16.83,defence structure,4,transitional,1,0
+TRX-0311,Adriatic Central Coast (Abruzzo),42.25462,14.34547,10.26,20.0,108.4,11.85,defence structure,4,convergent,0,0
+TRX-0312,Outer Banks Transect,35.70037,-75.4844,1.84,23.0,288.0,13.98,sandy,0,convergent,0,1
+TRX-0313,Ionian Barrier Spit,39.42486,16.37034,3.8,4.0,308.2,5.13,gravel,1,transitional,1,1
+TRX-0314,California Central Coast,36.90537,-122.0874,10.5,26.0,365.6,12.96,dune,2,convergent,0,1
+TRX-0315,Tyrrhenian Bay (Campania),40.93976,14.12002,1.03,9.0,400.7,5.46,sandy,0,transitional,1,1
+TRX-0316,Tyrrhenian Bay (Campania),40.80139,14.40558,11.25,23.0,32.4,16.75,sandy,0,divergent,2,0
+TRX-0317,Ligurian Littoral,44.16607,9.14933,12.2,14.0,298.9,13.89,dune,2,convergent,0,1
+TRX-0318,Adriatic Central Coast (Abruzzo),42.31787,14.4149,6.54,2.0,164.3,10.06,sandy,0,transitional,1,0
+TRX-0319,Gold Coast Spit,-28.0401,153.27772,2.8,10.0,410.8,10.66,sandy,0,divergent,2,1
+TRX-0320,North Sea Barrier Island,53.37734,7.21324,2.96,13.0,167.8,10.3,sandy,0,transitional,1,0
+TRX-0321,Ionian Barrier Spit,39.60112,16.51927,2.57,23.0,287.0,5.61,sandy,0,transitional,1,1
+TRX-0322,Adriatic Central Coast (Abruzzo),42.45224,14.49552,5.7,18.0,294.8,16.67,dune,2,convergent,0,1
+TRX-0323,North Sea Barrier Island,53.37369,7.32083,9.16,17.0,248.5,11.22,dune,2,divergent,2,1
+TRX-0324,Gold Coast Spit,-28.04814,153.56531,12.17,26.0,97.1,5.05,sandy,0,transitional,1,1
+TRX-0325,Ionian Barrier Spit,39.64918,16.53817,10.56,9.0,147.9,13.95,riverbank,3,convergent,0,0
+TRX-0326,North Sea Barrier Island,53.50591,7.32515,0.94,23.0,269.2,11.29,gravel,1,transitional,1,1
+TRX-0327,Ligurian Littoral,44.31998,9.2248,12.09,4.0,390.0,11.81,sandy,0,convergent,0,1
+TRX-0328,California Central Coast,36.87924,-122.00356,7.49,16.0,35.0,8.08,sandy,0,transitional,1,0
+TRX-0329,California Central Coast,36.81163,-121.93313,4.68,8.0,39.7,10.68,sandy,0,transitional,1,0
+TRX-0330,North Sea Barrier Island,53.4341,7.19749,8.95,4.0,409.0,7.46,sandy,0,divergent,2,1
+TRX-0331,Outer Banks Transect,35.73083,-75.62497,8.35,7.0,196.7,16.37,gravel,1,transitional,1,0
+TRX-0332,Adriatic Central Coast (Abruzzo),42.35458,14.29769,4.44,17.0,181.4,14.65,gravel,1,transitional,1,0
+TRX-0333,Ligurian Littoral,44.20783,9.29988,10.59,8.0,33.2,5.16,sandy,0,convergent,0,0
+TRX-0334,California Central Coast,36.99062,-122.16284,1.16,12.0,215.5,10.3,defence structure,4,transitional,1,0
+TRX-0335,Outer Banks Transect,35.75327,-75.4987,3.83,27.0,295.5,8.21,gravel,1,convergent,0,1
+TRX-0336,Ionian Barrier Spit,39.54421,16.55331,3.95,14.0,225.3,15.74,defence structure,4,transitional,1,0
+TRX-0337,Gold Coast Spit,-27.82655,153.46421,7.83,1.0,109.5,12.41,defence structure,4,divergent,2,0
+TRX-0338,California Central Coast,37.05548,-122.0623,3.35,10.0,290.9,15.22,gravel,1,convergent,0,0
+TRX-0339,Outer Banks Transect,35.81844,-75.57187,4.11,22.0,63.2,5.33,defence structure,4,transitional,1,0
+TRX-0340,North Sea Barrier Island,53.40651,7.20519,3.61,2.0,342.2,14.93,dune,2,transitional,1,0
+TRX-0341,Ligurian Littoral,44.36638,9.24662,12.47,9.0,382.8,9.76,dune,2,transitional,1,1
+TRX-0342,Outer Banks Transect,35.86796,-75.68329,7.06,26.0,210.3,16.73,sandy,0,transitional,1,1
+TRX-0343,Ligurian Littoral,44.40219,9.31295,2.92,4.0,208.3,14.13,dune,2,transitional,1,0
+TRX-0344,Outer Banks Transect,35.84633,-75.68332,3.41,28.0,142.8,14.75,sandy,0,convergent,0,0
+TRX-0345,North Sea Barrier Island,53.48913,7.08533,1.43,21.0,253.4,16.78,sandy,0,divergent,2,0
+TRX-0346,California Central Coast,36.95895,-122.07607,10.99,5.0,74.9,7.1,gravel,1,transitional,1,0
+TRX-0347,Gold Coast Spit,-28.05703,153.52872,2.91,3.0,215.0,12.7,sandy,0,transitional,1,0
+TRX-0348,Ligurian Littoral,44.32288,9.09753,9.99,25.0,55.2,12.49,dune,2,transitional,1,1
+TRX-0349,Gold Coast Spit,-27.98501,153.28132,3.13,12.0,400.0,16.1,dune,2,transitional,1,1
+TRX-0350,Ionian Barrier Spit,39.41788,16.6131,4.45,4.0,173.4,12.15,sandy,0,divergent,2,0
+TRX-0351,North Sea Barrier Island,53.63454,7.18678,6.89,17.0,155.1,16.04,defence structure,4,transitional,1,0
+TRX-0352,Ionian Barrier Spit,39.39947,16.62207,10.3,1.0,111.4,13.95,sandy,0,divergent,2,0
+TRX-0353,Ligurian Littoral,44.18695,9.26333,10.07,13.0,370.6,7.83,gravel,1,convergent,0,1
+TRX-0354,Adriatic Central Coast (Abruzzo),42.21447,14.28474,6.0,4.0,238.9,10.67,sandy,0,transitional,1,0
+TRX-0355,Adriatic Central Coast (Abruzzo),42.29033,14.4485,8.55,9.0,269.1,13.61,gravel,1,divergent,2,1
+TRX-0356,North Sea Barrier Island,53.3842,7.08188,3.12,7.0,331.2,15.31,defence structure,4,transitional,1,0
+TRX-0357,California Central Coast,36.88861,-122.18818,6.61,7.0,295.3,10.75,sandy,0,convergent,0,1
+TRX-0358,Gold Coast Spit,-28.05526,153.29702,6.79,24.0,309.4,16.26,dune,2,transitional,1,1
+TRX-0359,North Sea Barrier Island,53.42924,7.06502,10.31,28.0,35.8,8.28,riverbank,3,transitional,1,1
+TRX-0360,Adriatic Central Coast (Abruzzo),42.2029,14.29152,8.37,11.0,163.0,10.19,dune,2,divergent,2,1
+TRX-0361,Tyrrhenian Bay (Campania),40.81179,14.21282,2.13,13.0,404.9,8.03,gravel,1,divergent,2,1
+TRX-0362,Ligurian Littoral,44.18392,9.25885,1.49,28.0,83.8,9.91,dune,2,divergent,2,0
+TRX-0363,Gold Coast Spit,-28.04562,153.38393,5.0,1.0,365.0,15.94,dune,2,divergent,2,0
+TRX-0364,California Central Coast,36.93221,-122.181,8.46,1.0,301.8,13.31,dune,2,transitional,1,1
+TRX-0365,Ionian Barrier Spit,39.64337,16.55095,4.76,17.0,295.3,12.54,gravel,1,divergent,2,1
+TRX-0366,California Central Coast,36.8446,-121.95207,11.24,20.0,41.8,12.86,sandy,0,divergent,2,1
+TRX-0367,Gold Coast Spit,-27.83918,153.29246,6.55,8.0,152.4,8.12,gravel,1,transitional,1,0
+TRX-0368,Tyrrhenian Bay (Campania),40.83773,14.35038,6.04,28.0,219.4,8.61,defence structure,4,divergent,2,1
+TRX-0369,Adriatic Central Coast (Abruzzo),42.23079,14.3737,7.32,1.0,350.4,14.79,defence structure,4,transitional,1,1
+TRX-0370,Gold Coast Spit,-27.81489,153.379,1.44,8.0,357.7,8.82,dune,2,transitional,1,1
+TRX-0371,Outer Banks Transect,35.86477,-75.71579,9.68,8.0,20.9,9.12,dune,2,divergent,2,0
+TRX-0372,Tyrrhenian Bay (Campania),40.71373,14.15925,2.44,23.0,317.0,9.82,sandy,0,convergent,0,1
+TRX-0373,Tyrrhenian Bay (Campania),40.97906,14.22787,6.15,26.0,96.2,8.89,dune,2,convergent,0,1
+TRX-0374,Tyrrhenian Bay (Campania),40.93164,14.24515,8.5,17.0,73.9,10.98,gravel,1,convergent,0,0
+TRX-0375,California Central Coast,37.05164,-122.05512,6.75,6.0,296.7,6.76,riverbank,3,convergent,0,1
+TRX-0376,Outer Banks Transect,35.80123,-75.6346,12.26,23.0,324.9,8.06,defence structure,4,divergent,2,1
+TRX-0377,Gold Coast Spit,-27.85856,153.31145,7.85,24.0,224.9,15.46,gravel,1,transitional,1,1
+TRX-0378,Ionian Barrier Spit,39.41027,16.53725,4.2,12.0,388.5,6.22,dune,2,divergent,2,1
+TRX-0379,Ligurian Littoral,44.30117,9.25829,4.57,4.0,324.3,11.81,dune,2,divergent,2,1
+TRX-0380,North Sea Barrier Island,53.61324,7.17672,0.95,4.0,30.1,6.39,dune,2,convergent,0,0
+TRX-0381,Ligurian Littoral,44.44506,9.25502,2.51,2.0,296.2,8.34,dune,2,convergent,0,0
+TRX-0382,Ionian Barrier Spit,39.57272,16.51838,3.58,26.0,338.7,13.55,dune,2,convergent,0,1
+TRX-0383,California Central Coast,36.91627,-121.91299,12.22,11.0,406.3,5.2,dune,2,convergent,0,1
+TRX-0384,Gold Coast Spit,-27.851,153.54345,9.04,21.0,167.1,12.15,dune,2,convergent,0,1
+TRX-0385,Ionian Barrier Spit,39.43825,16.40323,8.79,6.0,405.0,14.06,sandy,0,convergent,0,1
+TRX-0386,Ligurian Littoral,44.3252,9.1265,4.67,23.0,395.0,5.02,defence structure,4,transitional,1,1
+TRX-0387,North Sea Barrier Island,53.49717,7.2218,4.99,26.0,303.1,11.33,defence structure,4,transitional,1,1
+TRX-0388,California Central Coast,36.82758,-122.13364,3.3,11.0,152.4,8.32,defence structure,4,transitional,1,0
+TRX-0389,Gold Coast Spit,-27.80101,153.51711,12.28,1.0,65.9,9.0,sandy,0,transitional,1,0
+TRX-0390,Adriatic Central Coast (Abruzzo),42.40477,14.34628,11.52,4.0,174.4,11.52,sandy,0,divergent,2,0
+TRX-0391,Outer Banks Transect,35.80429,-75.59738,6.5,10.0,379.3,7.0,gravel,1,divergent,2,1
+TRX-0392,Adriatic Central Coast (Abruzzo),42.38808,14.31323,8.17,7.0,366.0,10.01,sandy,0,transitional,1,1
+TRX-0393,California Central Coast,36.99397,-121.91807,9.54,5.0,29.5,13.82,sandy,0,convergent,0,0
+TRX-0394,Tyrrhenian Bay (Campania),40.87249,14.17829,3.83,13.0,200.5,9.76,sandy,0,transitional,1,1
+TRX-0395,Tyrrhenian Bay (Campania),40.86045,14.30243,8.03,25.0,318.4,5.09,riverbank,3,transitional,1,1
+TRX-0396,North Sea Barrier Island,53.53197,7.13446,11.64,13.0,178.0,13.09,gravel,1,transitional,1,1
+TRX-0397,Ligurian Littoral,44.37403,9.28903,10.74,10.0,404.1,6.37,dune,2,divergent,2,1
+TRX-0398,Outer Banks Transect,35.93722,-75.74665,11.03,5.0,69.3,4.57,dune,2,transitional,1,0
+TRX-0399,Tyrrhenian Bay (Campania),40.79141,14.33449,11.37,12.0,104.7,16.27,riverbank,3,convergent,0,0
+TRX-0400,North Sea Barrier Island,53.4083,7.10441,10.16,28.0,41.8,14.26,defence structure,4,transitional,1,1
+TRX-0401,Tyrrhenian Bay (Campania),40.7872,14.13021,1.95,24.0,252.2,16.87,sandy,0,transitional,1,1
+TRX-0402,Tyrrhenian Bay (Campania),40.97004,14.20534,6.07,20.0,283.8,13.51,sandy,0,transitional,1,1
+TRX-0403,Outer Banks Transect,35.9376,-75.69941,4.46,26.0,108.6,14.12,gravel,1,divergent,2,1
+TRX-0404,Gold Coast Spit,-27.96115,153.37762,4.37,18.0,63.5,12.89,sandy,0,convergent,0,0
+TRX-0405,Ligurian Littoral,44.41739,9.10893,9.38,21.0,50.6,5.48,sandy,0,transitional,1,1
+TRX-0406,California Central Coast,37.03076,-122.13617,1.23,9.0,237.4,17.48,gravel,1,divergent,2,0
+TRX-0407,Outer Banks Transect,35.76775,-75.48257,7.7,28.0,136.4,10.54,gravel,1,transitional,1,1
+TRX-0408,Ligurian Littoral,44.37716,9.09211,2.66,19.0,399.5,13.07,defence structure,4,divergent,2,1
+TRX-0409,Gold Coast Spit,-27.81825,153.28213,9.71,8.0,45.1,9.3,sandy,0,convergent,0,0
+TRX-0410,Gold Coast Spit,-27.82463,153.53447,1.27,21.0,149.6,13.65,gravel,1,divergent,2,0
+TRX-0411,North Sea Barrier Island,53.52359,7.22105,5.21,13.0,166.1,12.99,riverbank,3,transitional,1,0
+TRX-0412,California Central Coast,36.90587,-121.93968,6.5,16.0,374.9,4.59,riverbank,3,transitional,1,1
+TRX-0413,Ionian Barrier Spit,39.37313,16.54304,3.27,6.0,82.9,12.33,riverbank,3,transitional,1,0
+TRX-0414,Tyrrhenian Bay (Campania),40.84445,14.25364,3.27,6.0,278.9,9.84,sandy,0,convergent,0,0
+TRX-0415,Ligurian Littoral,44.19042,9.20379,11.22,5.0,42.4,7.86,sandy,0,divergent,2,0
+TRX-0416,Adriatic Central Coast (Abruzzo),42.46355,14.46839,10.41,3.0,106.6,12.38,gravel,1,transitional,1,0
+TRX-0417,Ionian Barrier Spit,39.59911,16.53025,10.1,27.0,327.0,12.6,gravel,1,convergent,0,1
+TRX-0418,Tyrrhenian Bay (Campania),40.76894,14.22564,2.07,7.0,229.1,16.32,dune,2,divergent,2,0
+TRX-0419,Tyrrhenian Bay (Campania),40.75323,14.38048,7.82,26.0,232.6,14.28,sandy,0,transitional,1,1
+TRX-0420,Adriatic Central Coast (Abruzzo),42.46909,14.48246,8.4,17.0,188.3,15.87,dune,2,transitional,1,1
+TRX-0421,Gold Coast Spit,-27.86313,153.38437,7.69,24.0,383.1,15.38,dune,2,transitional,1,1
+TRX-0422,Tyrrhenian Bay (Campania),40.78498,14.37303,5.58,7.0,22.2,14.17,sandy,0,transitional,1,0
+TRX-0423,Adriatic Central Coast (Abruzzo),42.31251,14.31163,10.21,14.0,164.9,6.51,dune,2,convergent,0,1
+TRX-0424,Outer Banks Transect,35.83356,-75.45246,5.45,7.0,185.3,14.69,gravel,1,transitional,1,0
+TRX-0425,Gold Coast Spit,-28.02387,153.362,4.83,23.0,179.3,6.29,riverbank,3,convergent,0,1
+TRX-0426,Ligurian Littoral,44.18008,9.2025,10.0,26.0,240.2,13.56,dune,2,convergent,0,1
+TRX-0427,Adriatic Central Coast (Abruzzo),42.44131,14.49698,6.32,20.0,194.2,5.33,sandy,0,convergent,0,1
+TRX-0428,California Central Coast,36.98419,-122.0437,9.13,20.0,43.0,14.56,sandy,0,transitional,1,0
+TRX-0429,Adriatic Central Coast (Abruzzo),42.26051,14.44707,10.21,10.0,97.9,14.69,gravel,1,transitional,1,0
+TRX-0430,Outer Banks Transect,35.72178,-75.74991,2.64,9.0,331.9,9.09,gravel,1,transitional,1,0
+TRX-0431,Adriatic Central Coast (Abruzzo),42.42108,14.27059,1.85,10.0,310.5,11.77,dune,2,transitional,1,1
+TRX-0432,Ionian Barrier Spit,39.48643,16.47119,0.85,6.0,182.9,5.88,sandy,0,convergent,0,0
+TRX-0433,Tyrrhenian Bay (Campania),40.94088,14.39701,11.05,27.0,337.4,7.75,gravel,1,transitional,1,1
+TRX-0434,Outer Banks Transect,35.93837,-75.61235,6.19,19.0,364.8,10.77,sandy,0,transitional,1,1
+TRX-0435,Ionian Barrier Spit,39.55307,16.41898,4.49,12.0,226.6,4.63,riverbank,3,convergent,0,1
+TRX-0436,Outer Banks Transect,35.67281,-75.47058,6.38,12.0,107.4,11.96,sandy,0,divergent,2,0
+TRX-0437,Ionian Barrier Spit,39.4997,16.4099,9.4,28.0,126.2,7.48,riverbank,3,divergent,2,1
+TRX-0438,Tyrrhenian Bay (Campania),40.97606,14.31274,8.56,20.0,22.6,15.64,defence structure,4,divergent,2,0
+TRX-0439,Outer Banks Transect,35.8362,-75.6023,12.33,19.0,367.5,10.88,defence structure,4,divergent,2,1
+TRX-0440,Ligurian Littoral,44.16624,9.28978,6.4,18.0,33.0,9.01,riverbank,3,divergent,2,1
+TRX-0441,Gold Coast Spit,-27.80705,153.47947,6.18,23.0,23.4,13.26,sandy,0,convergent,0,0
+TRX-0442,Ligurian Littoral,44.31457,9.12114,6.31,20.0,157.2,6.89,gravel,1,transitional,1,1
+TRX-0443,Outer Banks Transect,35.75952,-75.62982,6.07,19.0,72.5,11.99,sandy,0,convergent,0,0
+TRX-0444,California Central Coast,37.05689,-122.14118,10.16,24.0,79.8,14.97,sandy,0,transitional,1,1
+TRX-0445,Outer Banks Transect,35.8856,-75.65999,7.38,19.0,39.1,5.79,sandy,0,convergent,0,0
+TRX-0446,Tyrrhenian Bay (Campania),40.83496,14.2104,5.02,18.0,243.0,15.03,sandy,0,transitional,1,1
+TRX-0447,Outer Banks Transect,35.91021,-75.46107,3.13,19.0,279.9,11.5,defence structure,4,convergent,0,0
+TRX-0448,Gold Coast Spit,-27.83311,153.38432,4.15,21.0,402.6,15.79,dune,2,divergent,2,1
+TRX-0449,California Central Coast,36.98938,-122.02851,10.73,3.0,51.6,8.97,sandy,0,transitional,1,0
+TRX-0450,California Central Coast,36.88137,-122.06653,10.89,12.0,319.2,11.27,gravel,1,convergent,0,1
+TRX-0451,Adriatic Central Coast (Abruzzo),42.23751,14.32039,3.74,24.0,300.3,5.54,sandy,0,convergent,0,1
+TRX-0452,Adriatic Central Coast (Abruzzo),42.20791,14.3691,9.75,3.0,61.6,12.54,sandy,0,divergent,2,0
+TRX-0453,California Central Coast,36.89281,-122.12578,4.12,21.0,70.6,11.35,sandy,0,convergent,0,0
+TRX-0454,Gold Coast Spit,-27.95984,153.53127,11.74,18.0,197.9,17.1,dune,2,convergent,0,1
+TRX-0455,Gold Coast Spit,-27.91069,153.46076,7.4,17.0,275.9,11.44,defence structure,4,transitional,1,1
+TRX-0456,North Sea Barrier Island,53.45973,7.12794,4.35,1.0,229.3,14.36,sandy,0,convergent,0,0
+TRX-0457,Adriatic Central Coast (Abruzzo),42.40633,14.39758,9.64,10.0,23.7,10.1,sandy,0,convergent,0,0
+TRX-0458,California Central Coast,37.06465,-122.06887,3.72,23.0,314.8,9.57,sandy,0,convergent,0,1
+TRX-0459,California Central Coast,36.9876,-122.04502,10.16,20.0,343.0,13.4,sandy,0,divergent,2,1
+TRX-0460,Tyrrhenian Bay (Campania),40.75472,14.19688,8.25,20.0,201.1,13.61,gravel,1,transitional,1,1
+TRX-0461,Ligurian Littoral,44.16489,9.21049,2.98,4.0,132.8,6.13,gravel,1,convergent,0,0
+TRX-0462,Ionian Barrier Spit,39.45257,16.44347,10.15,12.0,205.5,14.79,sandy,0,divergent,2,1
+TRX-0463,Ligurian Littoral,44.16681,9.2827,1.64,16.0,92.6,16.14,sandy,0,transitional,1,0
+TRX-0464,Ionian Barrier Spit,39.46544,16.64249,3.69,2.0,99.7,14.06,sandy,0,transitional,1,0
+TRX-0465,Ionian Barrier Spit,39.49185,16.55443,4.45,11.0,83.4,13.97,dune,2,transitional,1,0
+TRX-0466,North Sea Barrier Island,53.40962,7.31626,10.9,7.0,409.3,7.57,gravel,1,convergent,0,1
+TRX-0467,North Sea Barrier Island,53.52541,7.16874,3.64,2.0,252.4,13.48,dune,2,convergent,0,0
+TRX-0468,Gold Coast Spit,-28.07258,153.45559,11.69,25.0,270.1,5.28,dune,2,divergent,2,1
+TRX-0469,Tyrrhenian Bay (Campania),40.73775,14.1798,12.29,26.0,277.9,9.02,riverbank,3,divergent,2,1
+TRX-0470,Ligurian Littoral,44.22521,9.06185,9.07,18.0,137.9,13.56,sandy,0,convergent,0,1
+TRX-0471,Outer Banks Transect,35.7471,-75.60948,10.95,20.0,385.8,11.71,sandy,0,convergent,0,1
+TRX-0472,Outer Banks Transect,35.78622,-75.51722,6.72,24.0,94.2,4.74,riverbank,3,divergent,2,1
+TRX-0473,Ionian Barrier Spit,39.44621,16.369,12.12,27.0,175.0,11.31,gravel,1,transitional,1,1
+TRX-0474,Outer Banks Transect,35.68314,-75.59304,1.58,27.0,395.1,6.82,sandy,0,convergent,0,1
+TRX-0475,Ionian Barrier Spit,39.37963,16.5213,10.58,22.0,216.0,12.61,dune,2,convergent,0,1
+TRX-0476,Adriatic Central Coast (Abruzzo),42.47906,14.31262,6.55,27.0,52.0,14.91,sandy,0,transitional,1,1
+TRX-0477,California Central Coast,37.04661,-121.96173,1.48,20.0,126.3,5.03,sandy,0,transitional,1,1
+TRX-0478,Tyrrhenian Bay (Campania),40.73037,14.17931,5.31,7.0,230.5,7.73,dune,2,convergent,0,0
+TRX-0479,California Central Coast,37.02383,-121.97011,7.55,22.0,203.5,13.15,riverbank,3,convergent,0,1
+TRX-0480,Outer Banks Transect,35.84726,-75.58983,7.82,12.0,381.0,11.65,defence structure,4,divergent,2,1
+TRX-0481,California Central Coast,37.02926,-122.07082,9.29,20.0,116.3,11.59,sandy,0,transitional,1,1
+TRX-0482,Gold Coast Spit,-27.96575,153.38913,9.3,10.0,258.3,11.23,defence structure,4,transitional,1,1
+TRX-0483,North Sea Barrier Island,53.64532,7.11445,4.48,25.0,348.8,13.47,sandy,0,transitional,1,1
+TRX-0484,Ligurian Littoral,44.17829,9.18811,2.63,9.0,166.8,12.07,sandy,0,divergent,2,0
+TRX-0485,Tyrrhenian Bay (Campania),40.87115,14.28072,3.34,3.0,309.4,14.81,sandy,0,divergent,2,0
+TRX-0486,Tyrrhenian Bay (Campania),40.87857,14.20012,9.35,19.0,172.6,14.64,defence structure,4,transitional,1,0
+TRX-0487,California Central Coast,36.92496,-121.93965,10.98,8.0,319.1,15.54,defence structure,4,transitional,1,1
+TRX-0488,Adriatic Central Coast (Abruzzo),42.29579,14.41947,4.62,23.0,108.3,5.16,dune,2,transitional,1,1
+TRX-0489,Gold Coast Spit,-27.87415,153.44258,1.85,14.0,135.9,9.63,sandy,0,convergent,0,0
+TRX-0490,California Central Coast,36.87877,-122.08044,5.88,23.0,72.2,6.25,gravel,1,transitional,1,1
+TRX-0491,Ionian Barrier Spit,39.51835,16.64912,6.93,8.0,48.7,14.6,sandy,0,divergent,2,0
+TRX-0492,California Central Coast,36.90958,-122.14285,4.83,21.0,29.7,8.46,defence structure,4,transitional,1,0
+TRX-0493,Gold Coast Spit,-27.91305,153.40214,11.61,8.0,99.9,9.36,dune,2,divergent,2,1
+TRX-0494,Ligurian Littoral,44.41063,9.29604,0.96,23.0,341.7,8.47,gravel,1,transitional,1,1
+TRX-0495,Ionian Barrier Spit,39.41114,16.50698,3.83,16.0,269.2,17.4,dune,2,transitional,1,0
+TRX-0496,Adriatic Central Coast (Abruzzo),42.27664,14.26803,3.15,23.0,267.2,5.19,dune,2,convergent,0,1
+TRX-0497,California Central Coast,36.99811,-122.00111,11.48,12.0,365.7,4.75,riverbank,3,transitional,1,1
+TRX-0498,Tyrrhenian Bay (Campania),40.97116,14.2554,7.79,3.0,94.6,11.01,gravel,1,divergent,2,0
+TRX-0499,Adriatic Central Coast (Abruzzo),42.21193,14.52668,4.37,16.0,177.4,6.54,sandy,0,transitional,1,1
+TRX-0500,North Sea Barrier Island,53.59357,7.23774,11.08,27.0,416.1,16.77,defence structure,4,convergent,0,1
+TRX-0501,Outer Banks Transect,35.91915,-75.55292,1.83,13.0,228.3,13.31,riverbank,3,transitional,1,0
+TRX-0502,California Central Coast,37.09116,-121.92708,4.65,18.0,72.7,12.98,dune,2,transitional,1,0
+TRX-0503,Ionian Barrier Spit,39.60878,16.4427,9.05,17.0,383.8,10.09,defence structure,4,divergent,2,1
+TRX-0504,Ligurian Littoral,44.24525,9.2172,11.9,4.0,93.7,15.41,sandy,0,convergent,0,0
+TRX-0505,Outer Banks Transect,35.91404,-75.62579,5.61,15.0,318.2,15.18,dune,2,divergent,2,1
+TRX-0506,Ligurian Littoral,44.20542,9.27873,7.96,9.0,262.2,12.46,dune,2,convergent,0,1
+TRX-0507,Adriatic Central Coast (Abruzzo),42.30778,14.45644,6.38,17.0,358.5,10.59,dune,2,convergent,0,1
+TRX-0508,Ligurian Littoral,44.20798,9.05967,9.75,1.0,390.2,16.85,sandy,0,transitional,1,1
+TRX-0509,Ionian Barrier Spit,39.57733,16.36984,11.65,15.0,366.9,10.87,sandy,0,transitional,1,1
+TRX-0510,Adriatic Central Coast (Abruzzo),42.38238,14.4973,9.23,13.0,264.6,14.15,dune,2,transitional,1,1
+TRX-0511,Adriatic Central Coast (Abruzzo),42.35619,14.38548,10.48,2.0,371.1,7.69,gravel,1,divergent,2,1
+TRX-0512,Adriatic Central Coast (Abruzzo),42.25696,14.38187,11.15,25.0,351.0,10.5,gravel,1,transitional,1,1
+TRX-0513,Adriatic Central Coast (Abruzzo),42.40699,14.5211,6.22,21.0,200.7,13.89,sandy,0,divergent,2,1
+TRX-0514,Ligurian Littoral,44.26792,9.14704,1.09,15.0,256.1,13.76,sandy,0,transitional,1,0
+TRX-0515,North Sea Barrier Island,53.44722,7.24457,9.12,6.0,307.3,6.11,sandy,0,transitional,1,1
+TRX-0516,California Central Coast,37.01806,-121.90744,7.96,6.0,171.5,9.45,dune,2,divergent,2,1
+TRX-0517,Ligurian Littoral,44.19864,9.09338,9.8,2.0,187.8,8.52,dune,2,transitional,1,0
+TRX-0518,Ligurian Littoral,44.43813,9.05106,9.76,1.0,203.5,15.62,gravel,1,convergent,0,0
+TRX-0519,Gold Coast Spit,-28.02864,153.44666,6.37,14.0,196.8,12.32,sandy,0,divergent,2,1
+TRX-0520,Ionian Barrier Spit,39.36468,16.39448,8.44,2.0,78.1,4.92,dune,2,transitional,1,0
+TRX-0521,Outer Banks Transect,35.92612,-75.73529,5.68,6.0,84.5,8.2,dune,2,transitional,1,0
+TRX-0522,Gold Coast Spit,-27.8752,153.37806,1.22,25.0,139.7,9.29,sandy,0,convergent,0,0
+TRX-0523,California Central Coast,37.05299,-122.18052,6.31,4.0,297.8,8.07,gravel,1,transitional,1,1
+TRX-0524,Tyrrhenian Bay (Campania),40.87141,14.4038,6.99,3.0,213.5,13.45,defence structure,4,divergent,2,0
+TRX-0525,North Sea Barrier Island,53.47812,7.30434,3.84,19.0,418.0,9.1,sandy,0,transitional,1,1
+TRX-0526,Gold Coast Spit,-27.85761,153.5351,3.52,10.0,411.7,4.52,sandy,0,transitional,1,1
+TRX-0527,Tyrrhenian Bay (Campania),40.92124,14.1722,8.0,14.0,185.6,8.84,dune,2,transitional,1,1
+TRX-0528,North Sea Barrier Island,53.42633,7.07035,4.31,18.0,149.6,4.58,dune,2,transitional,1,1
+TRX-0529,Adriatic Central Coast (Abruzzo),42.44961,14.3082,10.56,22.0,211.6,10.67,sandy,0,convergent,0,1
+TRX-0530,Outer Banks Transect,35.78874,-75.50575,11.66,2.0,354.0,8.39,dune,2,transitional,1,1
+TRX-0531,Adriatic Central Coast (Abruzzo),42.26248,14.45565,10.15,26.0,161.4,17.1,sandy,0,convergent,0,1
+TRX-0532,Ligurian Littoral,44.32129,9.16687,7.76,28.0,332.9,8.51,riverbank,3,divergent,2,1
+TRX-0533,North Sea Barrier Island,53.47416,7.19912,3.58,15.0,351.8,8.43,gravel,1,convergent,0,1
+TRX-0534,Ionian Barrier Spit,39.62401,16.48313,1.09,16.0,382.0,6.5,sandy,0,transitional,1,1
+TRX-0535,North Sea Barrier Island,53.58266,7.09299,11.0,27.0,412.9,11.21,defence structure,4,convergent,0,1
+TRX-0536,Tyrrhenian Bay (Campania),40.70123,14.3897,8.84,20.0,368.8,8.83,riverbank,3,convergent,0,1
+TRX-0537,North Sea Barrier Island,53.35674,7.27755,8.27,7.0,148.4,7.0,sandy,0,transitional,1,0
+TRX-0538,Ligurian Littoral,44.19725,9.08434,12.01,18.0,225.6,7.19,sandy,0,transitional,1,1
+TRX-0539,Ligurian Littoral,44.43298,9.2912,7.52,6.0,48.5,12.47,sandy,0,transitional,1,0
+TRX-0540,Adriatic Central Coast (Abruzzo),42.23178,14.26614,5.79,6.0,301.9,16.09,dune,2,transitional,1,1
+TRX-0541,Gold Coast Spit,-27.91511,153.36373,10.36,23.0,323.4,15.02,sandy,0,divergent,2,1
+TRX-0542,Tyrrhenian Bay (Campania),40.94386,14.38591,6.28,15.0,144.2,12.88,dune,2,transitional,1,0
+TRX-0543,Ionian Barrier Spit,39.39312,16.61871,3.82,12.0,176.8,13.59,dune,2,divergent,2,0
+TRX-0544,Adriatic Central Coast (Abruzzo),42.21961,14.28387,6.4,28.0,88.3,14.48,dune,2,convergent,0,0
+TRX-0545,Tyrrhenian Bay (Campania),40.82171,14.32428,2.05,18.0,279.8,14.8,gravel,1,transitional,1,0
+TRX-0546,Ligurian Littoral,44.44217,9.16514,4.79,27.0,297.6,10.1,defence structure,4,transitional,1,1
+TRX-0547,Outer Banks Transect,35.81336,-75.67915,8.55,3.0,315.7,13.75,riverbank,3,convergent,0,1
+TRX-0548,Tyrrhenian Bay (Campania),40.94661,14.16285,11.98,3.0,259.3,13.41,dune,2,divergent,2,1
+TRX-0549,Outer Banks Transect,35.79829,-75.55195,1.86,27.0,75.6,12.05,dune,2,divergent,2,0
+TRX-0550,Gold Coast Spit,-27.94062,153.38699,7.56,7.0,102.3,15.91,sandy,0,divergent,2,0
+TRX-0551,North Sea Barrier Island,53.62555,7.331,9.2,12.0,416.1,12.08,dune,2,transitional,1,1
+TRX-0552,Adriatic Central Coast (Abruzzo),42.31077,14.41467,1.42,23.0,244.0,17.22,sandy,0,convergent,0,0
+TRX-0553,Adriatic Central Coast (Abruzzo),42.27057,14.46067,5.41,11.0,304.7,9.78,gravel,1,convergent,0,1
+TRX-0554,California Central Coast,37.053,-122.09191,5.68,10.0,419.0,13.21,sandy,0,convergent,0,1
+TRX-0555,Adriatic Central Coast (Abruzzo),42.2432,14.51547,8.5,5.0,53.9,12.85,gravel,1,transitional,1,0
+TRX-0556,California Central Coast,36.98697,-122.06368,5.76,27.0,200.0,9.12,sandy,0,transitional,1,1
+TRX-0557,Gold Coast Spit,-27.84596,153.34102,6.67,14.0,390.6,11.99,sandy,0,convergent,0,1
+TRX-0558,Gold Coast Spit,-27.81148,153.29402,9.34,17.0,413.4,17.29,dune,2,transitional,1,1
+TRX-0559,Tyrrhenian Bay (Campania),40.85701,14.29302,3.67,21.0,316.7,16.99,sandy,0,transitional,1,1
+TRX-0560,Adriatic Central Coast (Abruzzo),42.47108,14.41051,0.93,15.0,225.1,10.6,dune,2,transitional,1,0
+TRX-0561,North Sea Barrier Island,53.43676,7.0606,11.6,24.0,141.6,14.71,sandy,0,transitional,1,1
+TRX-0562,North Sea Barrier Island,53.59267,7.2373,4.16,3.0,70.7,5.5,riverbank,3,convergent,0,0
+TRX-0563,North Sea Barrier Island,53.43257,7.12709,9.47,20.0,89.8,12.19,sandy,0,transitional,1,1
+TRX-0564,Ionian Barrier Spit,39.49548,16.58981,10.89,11.0,413.6,17.08,dune,2,divergent,2,1
+TRX-0565,Gold Coast Spit,-27.87417,153.39388,5.28,22.0,196.1,12.79,sandy,0,divergent,2,1
+TRX-0566,Tyrrhenian Bay (Campania),40.71576,14.2492,6.37,16.0,318.5,14.28,gravel,1,transitional,1,1
+TRX-0567,California Central Coast,36.94238,-122.15646,10.98,1.0,135.5,14.87,gravel,1,transitional,1,0
+TRX-0568,Tyrrhenian Bay (Campania),40.97531,14.30123,11.99,14.0,264.2,12.98,sandy,0,convergent,0,1
+TRX-0569,Tyrrhenian Bay (Campania),40.7766,14.28525,6.19,22.0,319.6,14.05,dune,2,convergent,0,1
+TRX-0570,Ligurian Littoral,44.24398,9.05317,0.9,3.0,24.8,5.77,sandy,0,transitional,1,0
+TRX-0571,Ionian Barrier Spit,39.56758,16.42557,1.2,20.0,56.8,16.7,dune,2,divergent,2,0
+TRX-0572,Tyrrhenian Bay (Campania),40.72592,14.29141,5.2,25.0,380.0,11.86,defence structure,4,divergent,2,1
+TRX-0573,Ligurian Littoral,44.226,9.19009,11.75,21.0,201.4,17.44,dune,2,transitional,1,1
+TRX-0574,North Sea Barrier Island,53.39859,7.0722,9.89,13.0,175.4,17.45,sandy,0,divergent,2,0
+TRX-0575,Ligurian Littoral,44.28217,9.19752,11.66,20.0,177.1,12.89,sandy,0,transitional,1,1
+TRX-0576,Tyrrhenian Bay (Campania),40.97378,14.32462,2.01,3.0,48.2,13.96,dune,2,convergent,0,0
+TRX-0577,Gold Coast Spit,-28.05534,153.4621,11.71,22.0,176.2,6.47,sandy,0,transitional,1,1
+TRX-0578,Gold Coast Spit,-27.95656,153.39117,9.31,26.0,334.2,11.52,sandy,0,divergent,2,1
+TRX-0579,Gold Coast Spit,-28.06364,153.43059,12.4,11.0,292.7,9.71,dune,2,divergent,2,1
+TRX-0580,Outer Banks Transect,35.67414,-75.61211,9.77,21.0,101.2,11.71,defence structure,4,transitional,1,1
+TRX-0581,North Sea Barrier Island,53.55876,7.31894,8.18,12.0,214.6,16.01,gravel,1,convergent,0,0
+TRX-0582,Ionian Barrier Spit,39.49677,16.3689,7.12,10.0,219.9,17.04,riverbank,3,divergent,2,0
+TRX-0583,Adriatic Central Coast (Abruzzo),42.21111,14.26682,10.02,2.0,182.2,7.25,dune,2,transitional,1,1
+TRX-0584,Ligurian Littoral,44.37232,9.1199,1.64,24.0,76.6,13.0,gravel,1,divergent,2,0
+TRX-0585,Adriatic Central Coast (Abruzzo),42.2728,14.44464,0.97,21.0,40.0,8.5,riverbank,3,transitional,1,0
+TRX-0586,Tyrrhenian Bay (Campania),40.73425,14.28849,8.0,3.0,341.8,10.04,riverbank,3,divergent,2,1
+TRX-0587,California Central Coast,36.89727,-121.90724,7.54,5.0,148.6,17.04,sandy,0,convergent,0,0
+TRX-0588,North Sea Barrier Island,53.39237,7.17455,8.95,18.0,86.0,7.67,dune,2,convergent,0,1
+TRX-0589,California Central Coast,37.0333,-122.19531,6.5,1.0,22.9,16.54,dune,2,transitional,1,0
+TRX-0590,Gold Coast Spit,-27.89229,153.33185,8.29,17.0,200.2,7.61,sandy,0,transitional,1,1
+TRX-0591,Ligurian Littoral,44.36516,9.23361,1.83,27.0,333.0,9.02,sandy,0,convergent,0,1
+TRX-0592,Tyrrhenian Bay (Campania),40.88568,14.36882,12.35,17.0,107.7,14.51,dune,2,convergent,0,1
+TRX-0593,Ionian Barrier Spit,39.3838,16.39477,10.67,16.0,219.0,6.58,defence structure,4,convergent,0,1
+TRX-0594,North Sea Barrier Island,53.45029,7.29155,9.67,2.0,61.8,5.18,gravel,1,convergent,0,0
+TRX-0595,Adriatic Central Coast (Abruzzo),42.34552,14.28482,11.27,24.0,197.9,12.04,gravel,1,divergent,2,1
+TRX-0596,Tyrrhenian Bay (Campania),40.79784,14.13942,9.43,28.0,100.0,16.09,sandy,0,transitional,1,1
+TRX-0597,Adriatic Central Coast (Abruzzo),42.46715,14.29348,11.66,15.0,91.2,9.36,gravel,1,convergent,0,0
+TRX-0598,Outer Banks Transect,35.68816,-75.54234,1.5,5.0,64.4,10.55,gravel,1,divergent,2,0
+TRX-0599,Ionian Barrier Spit,39.61592,16.53109,10.04,21.0,401.1,16.27,dune,2,transitional,1,1
+TRX-0600,Gold Coast Spit,-27.84134,153.33493,6.34,15.0,131.7,13.99,dune,2,convergent,0,0
+TRX-0601,Outer Banks Transect,35.78027,-75.68328,11.65,5.0,385.5,16.18,gravel,1,convergent,0,1
+TRX-0602,Adriatic Central Coast (Abruzzo),42.32771,14.3683,10.27,23.0,348.5,10.38,sandy,0,transitional,1,1
+TRX-0603,Adriatic Central Coast (Abruzzo),42.40795,14.37199,3.35,12.0,138.3,12.92,sandy,0,transitional,1,0
+TRX-0604,Adriatic Central Coast (Abruzzo),42.49293,14.38913,2.42,23.0,182.1,14.77,sandy,0,transitional,1,1
+TRX-0605,Adriatic Central Coast (Abruzzo),42.45811,14.27121,11.25,11.0,232.4,8.36,dune,2,transitional,1,1
+TRX-0606,Ionian Barrier Spit,39.58631,16.37429,11.11,24.0,392.9,11.19,defence structure,4,transitional,1,1
+TRX-0607,Adriatic Central Coast (Abruzzo),42.23329,14.35968,8.04,12.0,166.6,12.93,dune,2,transitional,1,1
+TRX-0608,Outer Banks Transect,35.72159,-75.71593,6.4,25.0,252.0,16.97,sandy,0,divergent,2,1
+TRX-0609,Ionian Barrier Spit,39.44614,16.61938,6.69,14.0,130.9,5.32,sandy,0,transitional,1,1
+TRX-0610,North Sea Barrier Island,53.48559,7.16044,8.68,23.0,343.5,16.73,sandy,0,divergent,2,1
+TRX-0611,Gold Coast Spit,-28.07381,153.3872,2.89,3.0,63.7,8.09,dune,2,transitional,1,0
+TRX-0612,Adriatic Central Coast (Abruzzo),42.28795,14.54087,7.13,5.0,209.6,9.96,dune,2,convergent,0,0
+TRX-0613,Ionian Barrier Spit,39.36888,16.61154,3.52,17.0,277.9,9.85,sandy,0,transitional,1,1
+TRX-0614,Gold Coast Spit,-27.9626,153.44018,11.31,10.0,88.7,7.88,gravel,1,divergent,2,1
+TRX-0615,Adriatic Central Coast (Abruzzo),42.2445,14.33531,11.99,20.0,389.7,13.75,sandy,0,divergent,2,1
+TRX-0616,Ligurian Littoral,44.19838,9.08508,12.43,19.0,70.6,7.89,sandy,0,transitional,1,1
+TRX-0617,Adriatic Central Coast (Abruzzo),42.39967,14.54341,2.53,15.0,235.9,6.61,sandy,0,divergent,2,1
+TRX-0618,Ligurian Littoral,44.43434,9.32834,2.63,24.0,238.5,11.1,dune,2,convergent,0,1
+TRX-0619,North Sea Barrier Island,53.64088,7.27625,12.43,22.0,78.8,11.85,defence structure,4,transitional,1,1
+TRX-0620,Adriatic Central Coast (Abruzzo),42.24183,14.41529,4.4,13.0,267.0,7.36,sandy,0,transitional,1,1
+TRX-0621,Ionian Barrier Spit,39.52503,16.41664,11.75,9.0,98.3,5.59,riverbank,3,transitional,1,1
+TRX-0622,California Central Coast,36.85834,-122.10467,7.88,2.0,383.4,9.19,sandy,0,divergent,2,1
+TRX-0623,Outer Banks Transect,35.76583,-75.74634,4.84,10.0,411.0,15.87,sandy,0,divergent,2,0
+TRX-0624,Gold Coast Spit,-28.01341,153.5117,12.15,14.0,311.4,9.88,riverbank,3,transitional,1,1
+TRX-0625,Ligurian Littoral,44.21234,9.19238,10.95,11.0,46.4,16.98,dune,2,convergent,0,0
+TRX-0626,California Central Coast,36.85247,-122.06136,7.44,5.0,99.7,15.32,sandy,0,transitional,1,0
+TRX-0627,North Sea Barrier Island,53.60038,7.14117,7.34,15.0,109.8,14.79,sandy,0,transitional,1,0
+TRX-0628,Tyrrhenian Bay (Campania),40.89614,14.37781,5.68,16.0,382.7,12.88,sandy,0,divergent,2,1
+TRX-0629,Gold Coast Spit,-27.8017,153.29002,9.52,19.0,212.2,10.17,sandy,0,transitional,1,1
+TRX-0630,Outer Banks Transect,35.80376,-75.57742,10.69,6.0,252.7,6.4,gravel,1,transitional,1,1
+TRX-0631,Outer Banks Transect,35.69899,-75.6682,5.71,12.0,39.5,8.29,dune,2,convergent,0,0
+TRX-0632,Tyrrhenian Bay (Campania),40.87963,14.16014,4.57,11.0,350.7,13.4,sandy,0,transitional,1,1
+TRX-0633,Outer Banks Transect,35.67875,-75.57599,10.43,1.0,74.8,8.16,dune,2,transitional,1,0
+TRX-0634,Ionian Barrier Spit,39.39637,16.41633,3.0,18.0,265.4,15.31,gravel,1,transitional,1,0
+TRX-0635,Tyrrhenian Bay (Campania),40.8252,14.38481,2.16,5.0,389.4,10.73,sandy,0,transitional,1,1
+TRX-0636,Outer Banks Transect,35.70166,-75.65859,9.51,4.0,108.9,15.64,sandy,0,convergent,0,0
+TRX-0637,Ligurian Littoral,44.21295,9.34433,5.77,25.0,333.6,5.51,dune,2,divergent,2,1
+TRX-0638,Adriatic Central Coast (Abruzzo),42.34072,14.52256,1.31,10.0,287.0,14.31,riverbank,3,divergent,2,0
+TRX-0639,Ionian Barrier Spit,39.52628,16.41001,8.65,1.0,56.3,15.5,defence structure,4,divergent,2,0
+TRX-0640,Ionian Barrier Spit,39.50147,16.3705,10.39,25.0,25.6,7.32,sandy,0,convergent,0,1
+TRX-0641,Adriatic Central Coast (Abruzzo),42.49207,14.27961,3.3,17.0,360.5,10.67,dune,2,convergent,0,1
+TRX-0642,Outer Banks Transect,35.94439,-75.62277,6.82,14.0,65.1,17.3,sandy,0,convergent,0,0
+TRX-0643,Ligurian Littoral,44.29874,9.15838,4.17,24.0,36.2,8.77,sandy,0,convergent,0,0
+TRX-0644,Gold Coast Spit,-28.03224,153.39218,12.32,14.0,95.5,5.4,riverbank,3,transitional,1,1
+TRX-0645,Outer Banks Transect,35.70379,-75.45038,6.55,4.0,178.5,11.29,dune,2,convergent,0,0
+TRX-0646,Tyrrhenian Bay (Campania),40.92243,14.37773,2.77,12.0,410.1,8.9,dune,2,divergent,2,1
+TRX-0647,Tyrrhenian Bay (Campania),40.76986,14.23741,6.64,25.0,305.4,12.06,sandy,0,divergent,2,1
+TRX-0648,Gold Coast Spit,-27.9,153.55504,12.35,17.0,131.6,14.48,sandy,0,convergent,0,1
+TRX-0649,Gold Coast Spit,-28.03075,153.55272,1.15,24.0,41.1,5.39,dune,2,divergent,2,0
+TRX-0650,Ligurian Littoral,44.24083,9.23697,9.69,22.0,320.6,14.48,riverbank,3,convergent,0,1
+TRX-0651,Gold Coast Spit,-27.95292,153.3485,4.82,28.0,236.2,4.73,dune,2,divergent,2,1
+TRX-0652,Gold Coast Spit,-28.00563,153.3829,6.18,2.0,90.7,13.07,dune,2,divergent,2,0
+TRX-0653,Ligurian Littoral,44.29744,9.09035,9.17,16.0,325.6,11.9,gravel,1,transitional,1,1
+TRX-0654,Ligurian Littoral,44.30201,9.16742,6.59,13.0,266.8,9.09,defence structure,4,transitional,1,1
+TRX-0655,Adriatic Central Coast (Abruzzo),42.37714,14.28846,5.09,26.0,316.8,4.85,riverbank,3,transitional,1,1
+TRX-0656,Outer Banks Transect,35.77358,-75.73307,3.66,8.0,279.2,12.2,defence structure,4,convergent,0,0
+TRX-0657,North Sea Barrier Island,53.38434,7.10093,7.1,2.0,204.4,15.72,dune,2,divergent,2,0
+TRX-0658,Adriatic Central Coast (Abruzzo),42.49573,14.36332,5.37,19.0,59.1,10.85,dune,2,convergent,0,1
+TRX-0659,Gold Coast Spit,-27.94917,153.49947,4.77,20.0,139.8,17.1,sandy,0,transitional,1,0
+TRX-0660,Ionian Barrier Spit,39.43621,16.36426,12.46,13.0,341.8,12.62,defence structure,4,divergent,2,1
+TRX-0661,Tyrrhenian Bay (Campania),40.87756,14.19201,7.43,17.0,210.1,7.23,riverbank,3,transitional,1,1
+TRX-0662,California Central Coast,36.99904,-122.10599,5.65,9.0,270.0,10.39,dune,2,convergent,0,1
+TRX-0663,Adriatic Central Coast (Abruzzo),42.38835,14.40487,2.98,16.0,105.2,17.01,dune,2,transitional,1,0
+TRX-0664,California Central Coast,37.08039,-121.98202,1.5,7.0,165.7,6.42,sandy,0,transitional,1,0
+TRX-0665,North Sea Barrier Island,53.60324,7.17308,10.86,3.0,273.6,15.5,sandy,0,convergent,0,1
+TRX-0666,Ionian Barrier Spit,39.47176,16.38407,3.05,8.0,338.8,8.54,gravel,1,divergent,2,1
+TRX-0667,California Central Coast,36.99408,-122.1889,2.66,5.0,31.7,14.77,sandy,0,transitional,1,0
+TRX-0668,Gold Coast Spit,-27.86533,153.2866,11.29,11.0,260.6,15.77,defence structure,4,transitional,1,1
+TRX-0669,Outer Banks Transect,35.8515,-75.48428,5.44,27.0,309.7,6.33,sandy,0,divergent,2,1
+TRX-0670,North Sea Barrier Island,53.49894,7.07707,7.82,25.0,342.7,8.78,dune,2,transitional,1,1
+TRX-0671,Ionian Barrier Spit,39.63065,16.4154,2.05,7.0,408.0,10.21,sandy,0,transitional,1,1
+TRX-0672,Tyrrhenian Bay (Campania),40.79495,14.23713,8.79,9.0,371.8,16.68,sandy,0,divergent,2,1
+TRX-0673,North Sea Barrier Island,53.35632,7.34004,7.89,27.0,315.8,14.89,sandy,0,divergent,2,1
+TRX-0674,California Central Coast,36.89278,-121.91245,5.05,26.0,294.1,11.45,sandy,0,transitional,1,1
+TRX-0675,Adriatic Central Coast (Abruzzo),42.47294,14.36789,12.24,9.0,140.4,16.67,dune,2,convergent,0,0
+TRX-0676,Gold Coast Spit,-27.91059,153.53384,9.77,14.0,335.7,8.06,sandy,0,divergent,2,1
+TRX-0677,Gold Coast Spit,-27.95867,153.39389,10.64,23.0,188.9,16.44,sandy,0,convergent,0,1
+TRX-0678,California Central Coast,36.98063,-121.95597,9.43,15.0,298.1,14.41,dune,2,convergent,0,1
+TRX-0679,Gold Coast Spit,-27.86269,153.31083,5.49,21.0,142.2,11.99,sandy,0,convergent,0,0
+TRX-0680,Ligurian Littoral,44.40409,9.25573,10.07,11.0,200.6,15.86,sandy,0,convergent,0,0
+TRX-0681,Outer Banks Transect,35.88986,-75.6904,5.65,6.0,177.4,9.41,riverbank,3,transitional,1,0
+TRX-0682,Ionian Barrier Spit,39.62205,16.64224,3.12,23.0,360.7,5.15,dune,2,transitional,1,1
+TRX-0683,Ligurian Littoral,44.17672,9.16038,11.88,4.0,25.6,11.34,dune,2,divergent,2,0
+TRX-0684,Ionian Barrier Spit,39.56407,16.40716,10.88,26.0,126.5,14.2,gravel,1,transitional,1,1
+TRX-0685,Ionian Barrier Spit,39.53002,16.64856,4.11,22.0,95.7,6.84,riverbank,3,convergent,0,1
+TRX-0686,Gold Coast Spit,-27.8278,153.38089,8.81,15.0,54.3,10.6,riverbank,3,divergent,2,0
+TRX-0687,California Central Coast,37.00606,-121.986,9.09,24.0,258.9,5.45,gravel,1,convergent,0,1
+TRX-0688,Outer Banks Transect,35.94902,-75.4682,12.12,20.0,303.8,15.03,sandy,0,transitional,1,1
+TRX-0689,California Central Coast,36.89075,-122.08159,5.14,18.0,36.4,6.83,sandy,0,transitional,1,0
+TRX-0690,Tyrrhenian Bay (Campania),40.7952,14.26913,2.46,4.0,145.3,17.22,gravel,1,divergent,2,0
+TRX-0691,North Sea Barrier Island,53.57435,7.32787,4.11,9.0,265.2,14.4,sandy,0,transitional,1,0
+TRX-0692,Gold Coast Spit,-27.8709,153.31538,10.78,22.0,274.7,10.22,sandy,0,convergent,0,1
+TRX-0693,Ligurian Littoral,44.16076,9.12807,9.06,14.0,66.4,16.14,gravel,1,transitional,1,0
+TRX-0694,Gold Coast Spit,-27.9521,153.52375,10.94,4.0,159.8,7.15,sandy,0,divergent,2,1
+TRX-0695,North Sea Barrier Island,53.51897,7.24894,3.29,1.0,230.4,11.92,gravel,1,convergent,0,0
+TRX-0696,Outer Banks Transect,35.65779,-75.54561,8.76,13.0,169.4,16.58,sandy,0,transitional,1,0
+TRX-0697,Adriatic Central Coast (Abruzzo),42.22432,14.49921,8.52,15.0,271.3,8.0,dune,2,transitional,1,1
+TRX-0698,Gold Coast Spit,-28.00253,153.48946,9.39,26.0,247.7,7.25,sandy,0,transitional,1,1
+TRX-0699,Outer Banks Transect,35.88944,-75.52686,7.2,20.0,172.6,9.69,sandy,0,divergent,2,1
+TRX-0700,Ionian Barrier Spit,39.39888,16.58385,4.13,25.0,401.8,6.5,sandy,0,divergent,2,1
+TRX-0701,North Sea Barrier Island,53.62112,7.23105,5.0,4.0,352.8,11.16,gravel,1,divergent,2,0
+TRX-0702,California Central Coast,36.82707,-122.07324,5.11,6.0,193.6,10.04,sandy,0,transitional,1,0
+TRX-0703,Gold Coast Spit,-27.89707,153.46428,9.15,16.0,230.9,12.91,sandy,0,transitional,1,1
+TRX-0704,North Sea Barrier Island,53.39458,7.08834,11.36,27.0,119.5,10.06,dune,2,transitional,1,1
+TRX-0705,Adriatic Central Coast (Abruzzo),42.35402,14.4032,5.63,15.0,284.3,11.89,sandy,0,convergent,0,1
+TRX-0706,Tyrrhenian Bay (Campania),40.92215,14.24886,10.0,27.0,177.2,5.58,riverbank,3,convergent,0,1
+TRX-0707,Gold Coast Spit,-27.87279,153.40498,10.25,11.0,406.7,15.83,sandy,0,convergent,0,1
+TRX-0708,Tyrrhenian Bay (Campania),40.83014,14.11537,5.42,1.0,88.7,10.7,dune,2,divergent,2,0
+TRX-0709,Gold Coast Spit,-28.00916,153.51394,8.02,23.0,289.5,13.47,gravel,1,transitional,1,1
+TRX-0710,Tyrrhenian Bay (Campania),40.94479,14.31881,3.0,1.0,103.7,12.93,dune,2,transitional,1,0
+TRX-0711,Ionian Barrier Spit,39.37583,16.58092,2.53,14.0,28.7,6.66,sandy,0,divergent,2,0
+TRX-0712,Gold Coast Spit,-27.92443,153.3304,7.46,27.0,176.7,8.84,sandy,0,divergent,2,1
+TRX-0713,California Central Coast,37.09385,-121.94542,9.42,20.0,312.4,17.49,sandy,0,transitional,1,1
+TRX-0714,Gold Coast Spit,-28.03043,153.28821,1.02,19.0,146.3,5.33,riverbank,3,transitional,1,0
+TRX-0715,Gold Coast Spit,-28.06492,153.45681,8.36,15.0,299.0,4.77,sandy,0,convergent,0,1
+TRX-0716,Ionian Barrier Spit,39.5263,16.55549,11.58,28.0,357.0,13.04,sandy,0,convergent,0,1
+TRX-0717,California Central Coast,37.08794,-121.95008,8.68,24.0,164.1,10.64,defence structure,4,convergent,0,1
+TRX-0718,Tyrrhenian Bay (Campania),40.90012,14.14873,3.13,20.0,216.9,14.82,defence structure,4,transitional,1,1
+TRX-0719,Ionian Barrier Spit,39.41283,16.36411,1.01,9.0,162.8,6.56,riverbank,3,divergent,2,0
+TRX-0720,California Central Coast,36.83419,-122.13199,7.38,16.0,123.1,8.92,sandy,0,convergent,0,1
+TRX-0721,North Sea Barrier Island,53.6189,7.30602,11.02,20.0,287.8,13.68,defence structure,4,transitional,1,1
+TRX-0722,Tyrrhenian Bay (Campania),40.9924,14.3445,7.93,28.0,399.0,15.21,sandy,0,convergent,0,1
+TRX-0723,Tyrrhenian Bay (Campania),40.96126,14.3833,2.64,10.0,303.3,14.41,gravel,1,divergent,2,0
+TRX-0724,Ligurian Littoral,44.1869,9.11057,12.14,25.0,327.6,7.69,riverbank,3,transitional,1,1
+TRX-0725,Ligurian Littoral,44.17557,9.16173,9.63,12.0,271.8,7.69,dune,2,transitional,1,1
+TRX-0726,California Central Coast,36.92402,-122.07721,6.17,28.0,226.5,13.37,defence structure,4,transitional,1,1
+TRX-0727,Adriatic Central Coast (Abruzzo),42.41529,14.4052,1.61,11.0,145.9,17.27,sandy,0,convergent,0,0
+TRX-0728,Ligurian Littoral,44.42075,9.06734,8.19,23.0,339.6,15.89,defence structure,4,transitional,1,1
+TRX-0729,North Sea Barrier Island,53.56647,7.14411,4.83,27.0,131.9,11.36,defence structure,4,divergent,2,0
+TRX-0730,Gold Coast Spit,-27.89076,153.5363,9.94,13.0,330.2,15.95,sandy,0,transitional,1,1
+TRX-0731,California Central Coast,37.01753,-121.97798,2.27,18.0,133.6,5.71,gravel,1,transitional,1,0
+TRX-0732,Adriatic Central Coast (Abruzzo),42.4671,14.41198,3.83,27.0,329.7,13.94,defence structure,4,convergent,0,1
+TRX-0733,Adriatic Central Coast (Abruzzo),42.45248,14.32793,6.74,4.0,39.1,12.96,sandy,0,convergent,0,0
+TRX-0734,Ionian Barrier Spit,39.59162,16.6467,7.42,21.0,286.2,15.48,sandy,0,convergent,0,1
+TRX-0735,Ligurian Littoral,44.36431,9.2059,3.7,11.0,226.6,7.0,dune,2,transitional,1,1
+TRX-0736,California Central Coast,36.82458,-122.18134,11.2,16.0,105.9,5.51,dune,2,transitional,1,1
+TRX-0737,California Central Coast,37.0616,-122.02471,8.25,15.0,295.6,16.82,dune,2,transitional,1,1
+TRX-0738,Gold Coast Spit,-27.88665,153.30882,9.04,28.0,231.7,13.53,gravel,1,convergent,0,1
+TRX-0739,Ligurian Littoral,44.43322,9.1608,11.94,20.0,360.9,5.93,sandy,0,convergent,0,1
+TRX-0740,North Sea Barrier Island,53.64731,7.14098,6.49,26.0,77.1,14.69,gravel,1,divergent,2,0
+TRX-0741,North Sea Barrier Island,53.61672,7.11467,10.38,16.0,20.8,11.62,sandy,0,convergent,0,0
+TRX-0742,Gold Coast Spit,-27.82991,153.5044,6.36,24.0,353.5,6.23,sandy,0,transitional,1,1
+TRX-0743,Gold Coast Spit,-27.89983,153.31469,9.32,3.0,339.9,13.14,gravel,1,convergent,0,1
+TRX-0744,Gold Coast Spit,-27.87923,153.46377,10.93,23.0,29.9,12.69,dune,2,transitional,1,1
+TRX-0745,Tyrrhenian Bay (Campania),40.89317,14.13555,11.98,18.0,250.7,5.19,dune,2,convergent,0,1
+TRX-0746,Tyrrhenian Bay (Campania),40.89748,14.26956,12.06,9.0,334.7,7.69,dune,2,divergent,2,1
+TRX-0747,Gold Coast Spit,-28.07461,153.43006,4.55,19.0,38.0,15.71,sandy,0,transitional,1,0
+TRX-0748,Outer Banks Transect,35.7646,-75.72269,12.26,18.0,87.3,6.37,sandy,0,convergent,0,1
+TRX-0749,North Sea Barrier Island,53.63565,7.25358,1.49,11.0,92.6,13.77,sandy,0,convergent,0,0
+TRX-0750,North Sea Barrier Island,53.46265,7.29832,2.22,7.0,115.8,12.26,sandy,0,transitional,1,0
+TRX-0751,California Central Coast,37.08481,-122.11921,4.52,18.0,182.8,10.79,gravel,1,convergent,0,0
+TRX-0752,Tyrrhenian Bay (Campania),40.77389,14.27641,9.99,10.0,247.3,10.3,riverbank,3,transitional,1,1
+TRX-0753,Ligurian Littoral,44.26199,9.34559,9.95,18.0,401.0,17.0,gravel,1,convergent,0,1
+TRX-0754,North Sea Barrier Island,53.54592,7.10021,1.5,16.0,129.3,7.76,dune,2,divergent,2,0
+TRX-0755,Ionian Barrier Spit,39.52555,16.5031,1.33,24.0,233.6,5.41,sandy,0,transitional,1,1
+TRX-0756,North Sea Barrier Island,53.61348,7.11326,6.71,26.0,147.3,13.37,sandy,0,convergent,0,0
+TRX-0757,Gold Coast Spit,-28.0181,153.46868,4.56,7.0,203.9,12.29,sandy,0,transitional,1,0
+TRX-0758,Gold Coast Spit,-28.09872,153.27287,2.83,18.0,378.1,13.64,dune,2,transitional,1,1
+TRX-0759,Tyrrhenian Bay (Campania),40.86159,14.37777,10.35,15.0,288.9,9.09,riverbank,3,divergent,2,1
+TRX-0760,Adriatic Central Coast (Abruzzo),42.23743,14.36114,3.06,1.0,108.6,4.76,sandy,0,divergent,2,0
+TRX-0761,Outer Banks Transect,35.70745,-75.50512,8.12,26.0,307.1,7.55,gravel,1,transitional,1,1
+TRX-0762,Ionian Barrier Spit,39.35214,16.64528,8.27,4.0,368.0,11.9,gravel,1,transitional,1,1
+TRX-0763,Ligurian Littoral,44.16961,9.08847,1.56,9.0,393.4,15.62,riverbank,3,divergent,2,1
+TRX-0764,Adriatic Central Coast (Abruzzo),42.49759,14.4579,7.04,9.0,292.3,15.98,sandy,0,transitional,1,1
+TRX-0765,Adriatic Central Coast (Abruzzo),42.45616,14.3469,10.68,14.0,129.6,13.34,gravel,1,transitional,1,0
+TRX-0766,Ionian Barrier Spit,39.36409,16.62552,7.03,11.0,22.1,7.03,sandy,0,transitional,1,0
+TRX-0767,Adriatic Central Coast (Abruzzo),42.49708,14.31769,8.87,3.0,386.8,7.06,sandy,0,convergent,0,1
+TRX-0768,California Central Coast,37.04242,-122.02224,8.13,11.0,356.2,7.71,gravel,1,divergent,2,1
+TRX-0769,Adriatic Central Coast (Abruzzo),42.44649,14.4059,3.57,3.0,330.3,12.55,dune,2,transitional,1,0
+TRX-0770,Adriatic Central Coast (Abruzzo),42.47501,14.36322,11.21,23.0,46.0,6.16,defence structure,4,transitional,1,1
+TRX-0771,North Sea Barrier Island,53.53322,7.17955,1.99,2.0,243.7,8.33,gravel,1,convergent,0,0
+TRX-0772,Adriatic Central Coast (Abruzzo),42.33602,14.38926,5.81,20.0,267.7,8.92,defence structure,4,divergent,2,1
+TRX-0773,Gold Coast Spit,-27.94484,153.44634,2.06,1.0,258.1,5.38,riverbank,3,convergent,0,0
+TRX-0774,North Sea Barrier Island,53.45662,7.19442,8.06,6.0,117.3,14.86,sandy,0,transitional,1,0
+TRX-0775,California Central Coast,36.95394,-122.00449,4.99,19.0,374.1,14.58,sandy,0,transitional,1,1
+TRX-0776,Adriatic Central Coast (Abruzzo),42.3553,14.4473,2.49,8.0,222.8,15.36,riverbank,3,transitional,1,0
+TRX-0777,Ionian Barrier Spit,39.64295,16.54217,3.15,3.0,156.6,13.18,dune,2,divergent,2,0
+TRX-0778,Outer Banks Transect,35.83483,-75.62439,2.7,15.0,370.4,16.34,gravel,1,divergent,2,1
+TRX-0779,Ionian Barrier Spit,39.55797,16.48996,3.29,16.0,313.8,16.88,sandy,0,divergent,2,1
+TRX-0780,Adriatic Central Coast (Abruzzo),42.30885,14.27212,1.15,4.0,77.0,10.23,dune,2,divergent,2,0
+TRX-0781,Outer Banks Transect,35.66317,-75.74109,3.11,6.0,107.6,7.91,sandy,0,divergent,2,0
+TRX-0782,Ligurian Littoral,44.40286,9.32319,1.05,22.0,74.9,13.01,riverbank,3,transitional,1,0
+TRX-0783,Ionian Barrier Spit,39.44152,16.42204,10.27,22.0,88.5,11.35,riverbank,3,transitional,1,1
+TRX-0784,Tyrrhenian Bay (Campania),40.74333,14.38725,10.1,7.0,233.0,13.53,sandy,0,transitional,1,1
+TRX-0785,Ionian Barrier Spit,39.6263,16.57892,7.67,28.0,234.2,14.76,sandy,0,convergent,0,1
+TRX-0786,Gold Coast Spit,-28.03723,153.29442,6.31,22.0,266.0,6.68,gravel,1,divergent,2,1
+TRX-0787,Outer Banks Transect,35.79958,-75.61072,4.57,12.0,230.2,10.78,defence structure,4,transitional,1,0
+TRX-0788,Adriatic Central Coast (Abruzzo),42.26216,14.51847,6.09,8.0,178.4,8.48,riverbank,3,transitional,1,0
+TRX-0789,Outer Banks Transect,35.72636,-75.72457,9.59,10.0,197.8,9.07,dune,2,transitional,1,1
+TRX-0790,Gold Coast Spit,-27.97025,153.38025,6.62,9.0,172.9,6.83,sandy,0,transitional,1,0
+TRX-0791,Outer Banks Transect,35.92044,-75.66164,6.67,18.0,277.5,14.72,defence structure,4,convergent,0,1
+TRX-0792,Ionian Barrier Spit,39.45013,16.55253,3.73,24.0,346.2,13.39,sandy,0,divergent,2,1
+TRX-0793,Ligurian Littoral,44.44952,9.27572,9.46,9.0,23.4,8.39,riverbank,3,divergent,2,0
+TRX-0794,Adriatic Central Coast (Abruzzo),42.3416,14.40379,9.71,5.0,366.2,7.46,dune,2,convergent,0,1
+TRX-0795,Ionian Barrier Spit,39.50475,16.58579,9.66,24.0,345.8,8.93,sandy,0,divergent,2,1
+TRX-0796,California Central Coast,36.86288,-122.06501,7.33,12.0,75.6,15.86,sandy,0,divergent,2,0
+TRX-0797,Gold Coast Spit,-27.85688,153.52029,4.78,14.0,190.3,14.28,dune,2,transitional,1,0
+TRX-0798,Adriatic Central Coast (Abruzzo),42.47664,14.29611,11.95,11.0,247.3,14.89,defence structure,4,transitional,1,1
+TRX-0799,California Central Coast,37.09405,-122.13874,5.37,18.0,174.6,10.67,sandy,0,divergent,2,1
+TRX-0800,Ligurian Littoral,44.18129,9.21587,1.18,23.0,261.3,4.85,sandy,0,divergent,2,1
+TRX-0801,California Central Coast,36.88515,-122.13009,8.52,3.0,201.9,9.29,sandy,0,transitional,1,1
+TRX-0802,Tyrrhenian Bay (Campania),40.73874,14.23552,9.49,13.0,402.0,15.75,sandy,0,convergent,0,1
+TRX-0803,California Central Coast,37.04537,-122.00056,2.66,19.0,395.7,12.14,gravel,1,transitional,1,1
+TRX-0804,Ligurian Littoral,44.28372,9.29737,7.88,8.0,230.3,16.33,riverbank,3,transitional,1,0
+TRX-0805,Adriatic Central Coast (Abruzzo),42.42119,14.33637,11.11,15.0,158.7,15.45,riverbank,3,transitional,1,1
+TRX-0806,California Central Coast,36.87474,-121.93001,9.38,15.0,173.9,13.07,dune,2,convergent,0,0
+TRX-0807,Adriatic Central Coast (Abruzzo),42.27191,14.51116,4.0,21.0,235.1,13.17,sandy,0,divergent,2,1
+TRX-0808,California Central Coast,37.09772,-122.03415,12.45,3.0,322.2,11.06,dune,2,transitional,1,1
+TRX-0809,Ligurian Littoral,44.22583,9.20182,6.21,3.0,275.5,13.28,gravel,1,transitional,1,0
+TRX-0810,Adriatic Central Coast (Abruzzo),42.20322,14.2844,11.53,11.0,288.1,10.54,gravel,1,convergent,0,1
+TRX-0811,Ionian Barrier Spit,39.56407,16.48132,6.31,9.0,356.6,6.72,sandy,0,convergent,0,1
+TRX-0812,California Central Coast,36.85054,-121.99858,0.93,9.0,81.4,9.16,sandy,0,convergent,0,0
+TRX-0813,Ionian Barrier Spit,39.48262,16.36433,8.23,17.0,276.4,13.81,riverbank,3,transitional,1,1
+TRX-0814,Adriatic Central Coast (Abruzzo),42.2146,14.36322,3.16,8.0,169.9,7.6,sandy,0,transitional,1,0
+TRX-0815,Adriatic Central Coast (Abruzzo),42.30113,14.30765,8.63,8.0,403.5,5.76,riverbank,3,transitional,1,1
+TRX-0816,Tyrrhenian Bay (Campania),40.94469,14.2068,8.13,20.0,102.8,11.54,defence structure,4,convergent,0,0
+TRX-0817,Ionian Barrier Spit,39.38177,16.44701,0.98,21.0,146.5,9.56,gravel,1,convergent,0,0
+TRX-0818,Outer Banks Transect,35.66318,-75.48436,5.61,25.0,259.5,17.28,sandy,0,transitional,1,1
+TRX-0819,Ligurian Littoral,44.22558,9.07842,4.59,21.0,298.5,13.31,defence structure,4,transitional,1,1
+TRX-0820,Outer Banks Transect,35.94341,-75.55009,1.59,1.0,263.4,12.11,gravel,1,transitional,1,0
+TRX-0821,Ionian Barrier Spit,39.50103,16.56139,0.96,1.0,266.5,16.16,sandy,0,divergent,2,0
+TRX-0822,Adriatic Central Coast (Abruzzo),42.24127,14.39962,3.16,13.0,101.8,4.99,defence structure,4,transitional,1,0
+TRX-0823,Gold Coast Spit,-27.87822,153.36861,4.05,21.0,334.8,5.01,riverbank,3,transitional,1,1
+TRX-0824,Ionian Barrier Spit,39.60408,16.44938,3.63,18.0,41.6,16.43,defence structure,4,divergent,2,0
+TRX-0825,Ionian Barrier Spit,39.53242,16.46445,4.56,15.0,271.9,5.34,gravel,1,divergent,2,1
+TRX-0826,Ionian Barrier Spit,39.38767,16.4021,7.22,26.0,392.7,7.57,sandy,0,divergent,2,1
+TRX-0827,North Sea Barrier Island,53.39925,7.10926,5.76,20.0,119.6,8.21,gravel,1,transitional,1,0
+TRX-0828,Tyrrhenian Bay (Campania),40.9853,14.21787,5.22,16.0,196.6,11.07,dune,2,divergent,2,1
+TRX-0829,Gold Coast Spit,-28.09406,153.38443,10.79,25.0,382.6,8.4,gravel,1,transitional,1,1
+TRX-0830,North Sea Barrier Island,53.48608,7.16254,7.89,3.0,153.3,13.79,sandy,0,divergent,2,0
+TRX-0831,Adriatic Central Coast (Abruzzo),42.20385,14.40021,9.29,16.0,181.8,9.91,gravel,1,divergent,2,1
+TRX-0832,Tyrrhenian Bay (Campania),40.82264,14.12165,11.58,13.0,392.9,6.61,dune,2,divergent,2,1
+TRX-0833,Outer Banks Transect,35.80288,-75.60341,8.86,23.0,43.1,9.51,gravel,1,convergent,0,0
+TRX-0834,Outer Banks Transect,35.83929,-75.54707,8.96,21.0,79.2,12.37,defence structure,4,convergent,0,0
+TRX-0835,Ionian Barrier Spit,39.53064,16.63553,10.65,1.0,66.7,5.7,dune,2,transitional,1,0
+TRX-0836,Tyrrhenian Bay (Campania),40.85556,14.16665,5.75,27.0,190.7,13.49,gravel,1,transitional,1,0
+TRX-0837,California Central Coast,36.97582,-121.97982,9.6,24.0,367.8,5.92,dune,2,divergent,2,1
+TRX-0838,Ionian Barrier Spit,39.62901,16.46939,4.4,6.0,346.6,4.52,sandy,0,transitional,1,1
+TRX-0839,California Central Coast,36.99636,-121.98009,2.8,12.0,94.6,6.25,gravel,1,transitional,1,0
+TRX-0840,Ionian Barrier Spit,39.40569,16.36769,2.94,25.0,96.8,17.28,riverbank,3,transitional,1,0
+TRX-0841,Tyrrhenian Bay (Campania),40.96051,14.15984,4.23,13.0,69.9,5.34,sandy,0,convergent,0,0
+TRX-0842,Adriatic Central Coast (Abruzzo),42.21832,14.47554,0.88,19.0,335.7,5.04,sandy,0,divergent,2,1
+TRX-0843,California Central Coast,36.9809,-121.90393,9.71,16.0,209.3,8.88,gravel,1,transitional,1,1
+TRX-0844,Ionian Barrier Spit,39.6323,16.54952,5.23,2.0,410.1,15.85,riverbank,3,convergent,0,0
+TRX-0845,California Central Coast,37.01757,-121.93361,2.42,20.0,69.2,11.4,defence structure,4,divergent,2,0
+TRX-0846,Gold Coast Spit,-27.94553,153.46807,0.84,21.0,403.0,15.06,sandy,0,transitional,1,1
+TRX-0847,Adriatic Central Coast (Abruzzo),42.49088,14.47074,8.73,8.0,262.7,9.7,dune,2,convergent,0,1
+TRX-0848,Gold Coast Spit,-27.80394,153.52713,11.39,24.0,173.9,12.39,dune,2,divergent,2,1
+TRX-0849,Adriatic Central Coast (Abruzzo),42.23836,14.48905,4.33,22.0,418.5,17.33,gravel,1,divergent,2,1
+TRX-0850,Ionian Barrier Spit,39.42301,16.40113,11.85,23.0,55.8,10.15,dune,2,convergent,0,1
+TRX-0851,Outer Banks Transect,35.92079,-75.52011,3.38,9.0,286.4,16.87,dune,2,transitional,1,1
+TRX-0852,Gold Coast Spit,-28.07287,153.47754,11.0,19.0,326.5,12.31,dune,2,transitional,1,1
+TRX-0853,California Central Coast,36.99618,-121.96448,12.11,14.0,343.4,7.41,sandy,0,convergent,0,1
+TRX-0854,Ionian Barrier Spit,39.57339,16.38483,5.1,28.0,145.3,9.44,dune,2,transitional,1,1
+TRX-0855,Ionian Barrier Spit,39.60414,16.64395,4.54,12.0,339.0,16.64,sandy,0,transitional,1,1
+TRX-0856,Adriatic Central Coast (Abruzzo),42.36149,14.38818,2.49,10.0,354.9,11.0,gravel,1,transitional,1,0
+TRX-0857,Ligurian Littoral,44.37412,9.30474,10.48,2.0,259.6,8.52,defence structure,4,convergent,0,1
+TRX-0858,Gold Coast Spit,-27.91068,153.33471,4.21,13.0,43.5,15.03,sandy,0,divergent,2,0
+TRX-0859,Ionian Barrier Spit,39.56012,16.36577,10.93,6.0,362.7,13.96,sandy,0,divergent,2,1
+TRX-0860,Adriatic Central Coast (Abruzzo),42.36438,14.35122,8.73,12.0,323.1,9.58,gravel,1,convergent,0,1
+TRX-0861,Ionian Barrier Spit,39.56033,16.5144,1.94,11.0,320.9,12.04,riverbank,3,divergent,2,1
+TRX-0862,Ligurian Littoral,44.32315,9.18257,6.44,5.0,103.9,14.96,sandy,0,transitional,1,0
+TRX-0863,Outer Banks Transect,35.86779,-75.5773,8.74,28.0,79.0,16.86,gravel,1,divergent,2,1
+TRX-0864,Gold Coast Spit,-28.04611,153.28574,12.27,21.0,155.4,10.14,sandy,0,divergent,2,1
+TRX-0865,Ionian Barrier Spit,39.3602,16.42226,6.52,23.0,258.5,6.74,dune,2,divergent,2,1
+TRX-0866,Tyrrhenian Bay (Campania),40.93332,14.36947,8.41,9.0,272.9,10.29,sandy,0,convergent,0,1
+TRX-0867,Tyrrhenian Bay (Campania),40.84677,14.31064,6.76,1.0,254.7,17.34,gravel,1,transitional,1,0
+TRX-0868,California Central Coast,36.94526,-122.00662,5.87,19.0,70.1,8.73,dune,2,divergent,2,1
+TRX-0869,Ligurian Littoral,44.2716,9.26022,5.41,27.0,234.6,15.06,gravel,1,transitional,1,1
+TRX-0870,Tyrrhenian Bay (Campania),40.92605,14.17224,8.51,4.0,92.3,12.29,sandy,0,transitional,1,0
+TRX-0871,Outer Banks Transect,35.68691,-75.71136,3.21,6.0,55.1,7.84,dune,2,convergent,0,0
+TRX-0872,Ligurian Littoral,44.27692,9.33357,0.8,10.0,38.5,16.8,defence structure,4,convergent,0,0
+TRX-0873,Gold Coast Spit,-28.05804,153.41713,4.46,12.0,262.5,11.14,dune,2,transitional,1,1
+TRX-0874,Ligurian Littoral,44.23991,9.29979,12.0,20.0,240.8,12.19,sandy,0,divergent,2,1
+TRX-0875,California Central Coast,36.82231,-122.12351,5.27,6.0,180.0,5.58,sandy,0,transitional,1,0
+TRX-0876,Tyrrhenian Bay (Campania),40.88887,14.19082,8.21,21.0,97.1,9.34,dune,2,divergent,2,1
+TRX-0877,Ligurian Littoral,44.27591,9.09605,12.41,14.0,171.6,17.03,sandy,0,convergent,0,0
+TRX-0878,California Central Coast,36.81979,-122.00795,5.04,11.0,331.2,6.4,riverbank,3,convergent,0,1
+TRX-0879,Tyrrhenian Bay (Campania),40.81315,14.40063,5.23,4.0,333.1,6.11,gravel,1,divergent,2,1
+TRX-0880,Tyrrhenian Bay (Campania),40.85869,14.32014,10.93,18.0,128.4,5.79,sandy,0,transitional,1,1
+TRX-0881,California Central Coast,36.8542,-121.95817,8.73,26.0,232.7,12.23,riverbank,3,transitional,1,1
+TRX-0882,Ligurian Littoral,44.34727,9.0928,7.44,9.0,41.1,13.93,defence structure,4,divergent,2,0
+TRX-0883,Ionian Barrier Spit,39.55346,16.47547,6.16,15.0,414.5,14.88,gravel,1,convergent,0,1
+TRX-0884,Ionian Barrier Spit,39.44156,16.60738,11.89,14.0,328.2,15.49,dune,2,convergent,0,1
+TRX-0885,Ionian Barrier Spit,39.63346,16.39953,1.47,24.0,134.3,16.58,riverbank,3,convergent,0,0
+TRX-0886,Ligurian Littoral,44.2939,9.2045,12.48,18.0,299.2,9.77,dune,2,divergent,2,1
+TRX-0887,Adriatic Central Coast (Abruzzo),42.41425,14.46078,9.57,8.0,417.7,13.1,defence structure,4,divergent,2,1
+TRX-0888,Adriatic Central Coast (Abruzzo),42.38221,14.53939,8.69,25.0,229.4,7.43,sandy,0,divergent,2,1
+TRX-0889,Outer Banks Transect,35.93575,-75.62318,5.24,12.0,407.9,8.89,dune,2,divergent,2,1
+TRX-0890,North Sea Barrier Island,53.43975,7.13806,3.29,24.0,272.5,9.62,defence structure,4,divergent,2,1
+TRX-0891,Adriatic Central Coast (Abruzzo),42.48062,14.51775,10.73,2.0,162.3,12.5,sandy,0,transitional,1,1
+TRX-0892,Ligurian Littoral,44.27062,9.05266,5.84,7.0,53.9,11.19,sandy,0,convergent,0,0
+TRX-0893,Gold Coast Spit,-28.09793,153.50083,3.73,16.0,178.1,8.39,gravel,1,convergent,0,0
+TRX-0894,Gold Coast Spit,-27.90312,153.40181,2.44,24.0,193.6,9.17,riverbank,3,convergent,0,1
+TRX-0895,Ionian Barrier Spit,39.43547,16.3901,5.73,11.0,380.4,6.58,sandy,0,transitional,1,1
+TRX-0896,California Central Coast,36.94672,-122.05133,8.78,5.0,150.0,14.44,riverbank,3,transitional,1,0
+TRX-0897,California Central Coast,36.83943,-121.9127,10.07,5.0,82.2,11.0,dune,2,convergent,0,0
+TRX-0898,Adriatic Central Coast (Abruzzo),42.3303,14.33684,6.49,25.0,191.6,12.53,dune,2,convergent,0,1
+TRX-0899,North Sea Barrier Island,53.58002,7.30925,12.43,8.0,286.5,10.08,gravel,1,divergent,2,1
+TRX-0900,Ligurian Littoral,44.2066,9.30646,8.16,5.0,111.8,6.22,sandy,0,divergent,2,1
+TRX-0901,Ligurian Littoral,44.27789,9.23494,1.86,2.0,172.1,11.32,dune,2,divergent,2,0
+TRX-0902,Adriatic Central Coast (Abruzzo),42.35296,14.44316,4.36,9.0,165.4,16.76,dune,2,convergent,0,0
+TRX-0903,Adriatic Central Coast (Abruzzo),42.25453,14.25016,8.53,11.0,104.8,10.64,defence structure,4,convergent,0,0
+TRX-0904,Outer Banks Transect,35.75028,-75.71654,8.63,22.0,240.7,15.71,sandy,0,divergent,2,1
+TRX-0905,Outer Banks Transect,35.87288,-75.57333,7.88,8.0,280.1,7.23,gravel,1,divergent,2,1
+TRX-0906,Tyrrhenian Bay (Campania),40.71231,14.4005,11.14,27.0,96.2,13.66,defence structure,4,convergent,0,1
+TRX-0907,Outer Banks Transect,35.74044,-75.60774,9.7,18.0,308.3,5.07,sandy,0,transitional,1,1
+TRX-0908,Outer Banks Transect,35.91847,-75.61546,9.19,14.0,47.1,9.95,defence structure,4,transitional,1,0
+TRX-0909,Adriatic Central Coast (Abruzzo),42.25008,14.33224,12.12,10.0,38.2,11.86,riverbank,3,transitional,1,0
+TRX-0910,Tyrrhenian Bay (Campania),40.74966,14.33522,5.29,25.0,176.1,12.39,sandy,0,convergent,0,1
+TRX-0911,Ionian Barrier Spit,39.52763,16.35266,11.66,17.0,202.2,13.7,gravel,1,transitional,1,1
+TRX-0912,Tyrrhenian Bay (Campania),40.75133,14.12368,3.59,2.0,275.8,16.75,sandy,0,convergent,0,0
+TRX-0913,Adriatic Central Coast (Abruzzo),42.39272,14.3247,10.43,18.0,66.5,12.93,dune,2,divergent,2,0
+TRX-0914,North Sea Barrier Island,53.56662,7.1725,7.95,11.0,414.1,12.64,sandy,0,transitional,1,1
+TRX-0915,North Sea Barrier Island,53.40302,7.34148,7.09,28.0,331.3,14.65,sandy,0,divergent,2,1
+TRX-0916,Ionian Barrier Spit,39.59505,16.41619,3.94,19.0,271.9,15.66,gravel,1,transitional,1,1
+TRX-0917,California Central Coast,36.91059,-121.92935,1.9,6.0,203.8,15.1,sandy,0,transitional,1,0
+TRX-0918,North Sea Barrier Island,53.35631,7.09888,2.88,13.0,294.9,6.94,sandy,0,transitional,1,1
+TRX-0919,Gold Coast Spit,-27.82726,153.56112,1.97,17.0,74.9,14.26,sandy,0,convergent,0,0
+TRX-0920,Adriatic Central Coast (Abruzzo),42.42903,14.44334,1.31,8.0,328.0,7.98,defence structure,4,transitional,1,0
+TRX-0921,Adriatic Central Coast (Abruzzo),42.48729,14.2819,9.41,11.0,361.1,5.6,sandy,0,divergent,2,1
+TRX-0922,North Sea Barrier Island,53.44953,7.09635,1.45,23.0,127.0,11.57,sandy,0,convergent,0,0
+TRX-0923,North Sea Barrier Island,53.38077,7.31594,5.66,1.0,384.9,4.81,gravel,1,convergent,0,1
+TRX-0924,California Central Coast,37.00603,-121.98554,11.35,16.0,87.8,5.93,sandy,0,divergent,2,1
+TRX-0925,Outer Banks Transect,35.67289,-75.64988,5.02,3.0,378.2,12.36,sandy,0,transitional,1,0
+TRX-0926,Ligurian Littoral,44.41794,9.25615,8.11,10.0,159.4,5.85,defence structure,4,transitional,1,0
+TRX-0927,North Sea Barrier Island,53.59322,7.26339,1.69,1.0,364.7,17.21,dune,2,convergent,0,0
+TRX-0928,Gold Coast Spit,-27.85561,153.30395,5.8,24.0,131.4,5.68,defence structure,4,convergent,0,1
+TRX-0929,California Central Coast,36.90578,-122.05174,6.43,14.0,260.7,12.78,sandy,0,divergent,2,1
+TRX-0930,Gold Coast Spit,-27.93838,153.41778,7.07,8.0,173.9,12.05,gravel,1,transitional,1,0
+TRX-0931,Ionian Barrier Spit,39.56093,16.42056,0.83,28.0,26.9,11.76,defence structure,4,divergent,2,0
+TRX-0932,Ligurian Littoral,44.23841,9.09324,10.78,14.0,117.0,15.26,sandy,0,convergent,0,0
+TRX-0933,Ligurian Littoral,44.26324,9.0579,12.09,12.0,41.6,5.88,dune,2,transitional,1,1
+TRX-0934,Ligurian Littoral,44.25957,9.0737,1.7,19.0,352.4,9.91,dune,2,transitional,1,1
+TRX-0935,Ligurian Littoral,44.37443,9.25957,4.3,14.0,309.0,10.27,dune,2,convergent,0,1
+TRX-0936,Adriatic Central Coast (Abruzzo),42.38125,14.30207,2.68,13.0,353.1,13.34,riverbank,3,transitional,1,1
+TRX-0937,North Sea Barrier Island,53.62575,7.20056,9.1,14.0,392.6,8.03,sandy,0,transitional,1,1
+TRX-0938,California Central Coast,36.98571,-122.13433,2.95,24.0,410.4,12.37,sandy,0,transitional,1,1
+TRX-0939,Gold Coast Spit,-28.00604,153.46257,10.48,6.0,41.9,9.33,gravel,1,convergent,0,0
+TRX-0940,Outer Banks Transect,35.65841,-75.66534,7.14,3.0,104.8,4.64,defence structure,4,convergent,0,0
+TRX-0941,Ionian Barrier Spit,39.54152,16.35971,3.95,19.0,245.9,11.83,riverbank,3,convergent,0,0
+TRX-0942,Adriatic Central Coast (Abruzzo),42.49416,14.4755,12.02,17.0,98.0,14.27,dune,2,divergent,2,1
+TRX-0943,Tyrrhenian Bay (Campania),40.7994,14.37895,6.69,17.0,343.0,6.45,dune,2,transitional,1,1
+TRX-0944,North Sea Barrier Island,53.39837,7.25471,1.72,21.0,57.3,13.84,riverbank,3,divergent,2,0
+TRX-0945,Ligurian Littoral,44.38065,9.09831,12.07,17.0,416.9,12.41,gravel,1,divergent,2,1
+TRX-0946,North Sea Barrier Island,53.45809,7.30679,5.84,23.0,329.7,9.54,sandy,0,transitional,1,1
+TRX-0947,Tyrrhenian Bay (Campania),40.9874,14.28007,12.43,4.0,341.9,6.35,riverbank,3,transitional,1,1
+TRX-0948,Tyrrhenian Bay (Campania),40.84967,14.24644,2.79,10.0,84.6,8.14,sandy,0,convergent,0,0
+TRX-0949,Ligurian Littoral,44.3632,9.18822,12.34,9.0,325.3,10.25,defence structure,4,divergent,2,1
+TRX-0950,Outer Banks Transect,35.9077,-75.62972,10.83,22.0,71.6,9.27,riverbank,3,divergent,2,1
+TRX-0951,Outer Banks Transect,35.67505,-75.62604,6.07,22.0,37.1,17.21,sandy,0,divergent,2,0
+TRX-0952,Ligurian Littoral,44.40592,9.1372,2.65,13.0,361.5,7.4,riverbank,3,transitional,1,1
+TRX-0953,Outer Banks Transect,35.78976,-75.55725,11.33,15.0,63.6,6.84,sandy,0,divergent,2,1
+TRX-0954,California Central Coast,36.89862,-122.10481,12.46,16.0,105.1,14.14,sandy,0,transitional,1,1
+TRX-0955,Ligurian Littoral,44.43456,9.09365,3.3,19.0,32.5,12.31,gravel,1,divergent,2,0
+TRX-0956,Gold Coast Spit,-28.03597,153.33345,1.07,25.0,293.5,8.01,dune,2,convergent,0,1
+TRX-0957,Tyrrhenian Bay (Campania),40.78217,14.13451,11.02,15.0,368.5,11.32,dune,2,convergent,0,1
+TRX-0958,California Central Coast,36.90261,-121.97405,2.73,12.0,396.8,10.76,gravel,1,divergent,2,1
+TRX-0959,California Central Coast,36.90641,-121.99213,5.35,1.0,244.4,16.12,sandy,0,divergent,2,0
+TRX-0960,Outer Banks Transect,35.65426,-75.48105,11.73,16.0,365.7,5.98,defence structure,4,transitional,1,1
+TRX-0961,Adriatic Central Coast (Abruzzo),42.49647,14.533,10.83,21.0,199.7,17.1,sandy,0,convergent,0,1
+TRX-0962,Ligurian Littoral,44.33028,9.11484,3.25,7.0,408.7,12.0,sandy,0,divergent,2,1
+TRX-0963,Adriatic Central Coast (Abruzzo),42.29058,14.34209,10.38,4.0,299.7,12.94,gravel,1,transitional,1,1
+TRX-0964,Outer Banks Transect,35.68401,-75.69726,5.81,6.0,241.1,6.61,gravel,1,convergent,0,1
+TRX-0965,California Central Coast,36.99023,-121.98937,11.77,28.0,59.7,5.64,riverbank,3,convergent,0,1
+TRX-0966,Tyrrhenian Bay (Campania),40.84892,14.33552,11.65,4.0,273.4,11.04,riverbank,3,transitional,1,1
+TRX-0967,California Central Coast,36.86356,-121.96694,7.25,4.0,98.2,10.6,sandy,0,divergent,2,0
+TRX-0968,California Central Coast,36.80228,-122.08761,3.42,10.0,127.0,13.06,sandy,0,divergent,2,0
+TRX-0969,California Central Coast,37.00199,-122.19875,11.44,2.0,26.2,6.49,sandy,0,divergent,2,0
+TRX-0970,Outer Banks Transect,35.70112,-75.57834,5.83,18.0,409.4,7.0,dune,2,divergent,2,1
+TRX-0971,California Central Coast,36.83866,-122.00912,12.24,6.0,181.2,8.64,sandy,0,convergent,0,1
+TRX-0972,Tyrrhenian Bay (Campania),40.88943,14.34528,10.66,21.0,386.7,15.39,sandy,0,transitional,1,1
+TRX-0973,Tyrrhenian Bay (Campania),40.72798,14.24123,8.16,19.0,81.2,12.54,gravel,1,divergent,2,0
+TRX-0974,Ligurian Littoral,44.44502,9.24034,9.9,6.0,115.9,16.17,sandy,0,transitional,1,0
+TRX-0975,Ionian Barrier Spit,39.56789,16.59213,5.22,9.0,283.7,8.07,defence structure,4,transitional,1,0
+TRX-0976,Tyrrhenian Bay (Campania),40.73328,14.38816,2.24,5.0,133.0,16.13,sandy,0,transitional,1,0
+TRX-0977,Outer Banks Transect,35.92382,-75.68761,1.98,26.0,28.8,5.46,defence structure,4,convergent,0,0
+TRX-0978,Outer Banks Transect,35.84007,-75.61474,2.68,10.0,24.1,6.82,dune,2,transitional,1,0
+TRX-0979,Adriatic Central Coast (Abruzzo),42.23516,14.35284,4.86,20.0,260.0,4.57,gravel,1,convergent,0,1
+TRX-0980,Adriatic Central Coast (Abruzzo),42.3554,14.47829,3.33,12.0,65.9,7.32,sandy,0,convergent,0,0
+TRX-0981,Ligurian Littoral,44.23028,9.19447,11.95,12.0,303.2,12.98,gravel,1,divergent,2,1
+TRX-0982,Ionian Barrier Spit,39.42503,16.40936,10.7,23.0,132.4,9.61,dune,2,divergent,2,1
+TRX-0983,North Sea Barrier Island,53.3997,7.11175,9.25,14.0,373.1,10.01,dune,2,divergent,2,1
+TRX-0984,California Central Coast,36.85992,-122.09413,11.31,27.0,45.7,6.67,sandy,0,transitional,1,1
+TRX-0985,California Central Coast,36.88804,-121.95199,8.35,17.0,160.9,4.89,sandy,0,transitional,1,1
+TRX-0986,Tyrrhenian Bay (Campania),40.76456,14.2215,2.5,11.0,68.9,8.64,sandy,0,transitional,1,0
+TRX-0987,Gold Coast Spit,-27.92976,153.36647,3.52,3.0,174.2,12.32,gravel,1,convergent,0,0
+TRX-0988,Tyrrhenian Bay (Campania),40.87218,14.30388,8.78,14.0,147.1,8.66,sandy,0,divergent,2,1
+TRX-0989,Gold Coast Spit,-28.08596,153.35232,2.2,15.0,88.5,8.75,gravel,1,transitional,1,0
+TRX-0990,Adriatic Central Coast (Abruzzo),42.47349,14.33531,10.65,13.0,34.8,11.44,gravel,1,transitional,1,0
+TRX-0991,Adriatic Central Coast (Abruzzo),42.22084,14.27854,10.19,24.0,140.4,8.62,sandy,0,convergent,0,1
+TRX-0992,Adriatic Central Coast (Abruzzo),42.318,14.45894,6.12,28.0,276.4,16.34,riverbank,3,divergent,2,1
+TRX-0993,Tyrrhenian Bay (Campania),40.70879,14.12435,0.92,4.0,417.4,15.7,dune,2,convergent,0,1
+TRX-0994,Outer Banks Transect,35.89484,-75.58873,0.86,23.0,367.2,7.88,riverbank,3,convergent,0,1
+TRX-0995,North Sea Barrier Island,53.37251,7.1488,7.97,26.0,171.8,13.58,defence structure,4,transitional,1,1
+TRX-0996,Ligurian Littoral,44.37591,9.31634,12.1,14.0,274.8,13.19,gravel,1,convergent,0,1
+TRX-0997,Gold Coast Spit,-27.90162,153.5629,4.57,24.0,213.1,5.69,dune,2,divergent,2,1
+TRX-0998,Ionian Barrier Spit,39.54784,16.57058,3.21,3.0,50.1,10.93,sandy,0,transitional,1,0
+TRX-0999,Gold Coast Spit,-27.85445,153.32638,2.02,7.0,345.6,14.4,gravel,1,transitional,1,0
+TRX-1000,Ligurian Littoral,44.40434,9.0817,2.32,12.0,174.2,10.38,dune,2,convergent,0,0
+TRX-1001,California Central Coast,36.85639,-122.11665,2.72,10.0,400.6,12.0,sandy,0,transitional,1,1
+TRX-1002,Adriatic Central Coast (Abruzzo),42.46823,14.30611,1.13,22.0,232.4,9.08,sandy,0,transitional,1,1
+TRX-1003,Outer Banks Transect,35.77944,-75.70481,6.68,17.0,153.5,10.24,sandy,0,convergent,0,0
+TRX-1004,Ionian Barrier Spit,39.4382,16.47081,7.75,17.0,263.0,11.24,sandy,0,convergent,0,1
+TRX-1005,Ionian Barrier Spit,39.63769,16.41587,1.42,2.0,250.1,7.6,gravel,1,convergent,0,0
+TRX-1006,California Central Coast,36.91757,-122.16961,9.39,23.0,127.3,7.17,riverbank,3,transitional,1,1
+TRX-1007,North Sea Barrier Island,53.56176,7.13639,0.84,6.0,221.3,13.61,gravel,1,transitional,1,0
+TRX-1008,Outer Banks Transect,35.85443,-75.70001,4.69,15.0,76.7,4.67,gravel,1,transitional,1,0
+TRX-1009,Ligurian Littoral,44.44231,9.31438,2.8,25.0,361.2,12.22,defence structure,4,transitional,1,1
+TRX-1010,Tyrrhenian Bay (Campania),40.71355,14.11522,8.76,10.0,354.1,11.33,sandy,0,convergent,0,1
+TRX-1011,Tyrrhenian Bay (Campania),40.73,14.35117,4.73,16.0,313.9,17.37,sandy,0,transitional,1,1
+TRX-1012,Outer Banks Transect,35.74034,-75.64988,6.86,22.0,362.8,16.23,dune,2,convergent,0,1
+TRX-1013,Adriatic Central Coast (Abruzzo),42.24437,14.3731,3.38,5.0,162.9,4.9,dune,2,transitional,1,0
+TRX-1014,Tyrrhenian Bay (Campania),40.75815,14.39644,8.27,9.0,370.9,13.32,riverbank,3,transitional,1,1
+TRX-1015,Ligurian Littoral,44.22959,9.25372,11.19,13.0,255.7,16.79,sandy,0,convergent,0,1
+TRX-1016,Tyrrhenian Bay (Campania),40.83004,14.24651,12.13,26.0,158.8,5.93,sandy,0,divergent,2,1
+TRX-1017,Ligurian Littoral,44.2899,9.09507,12.11,20.0,243.3,6.61,gravel,1,convergent,0,1
+TRX-1018,Ionian Barrier Spit,39.43491,16.52792,1.42,10.0,22.0,9.08,riverbank,3,convergent,0,0
+TRX-1019,Ligurian Littoral,44.25507,9.13498,10.85,22.0,403.4,11.79,defence structure,4,divergent,2,1
+TRX-1020,California Central Coast,36.97557,-122.17578,3.36,16.0,393.2,7.73,dune,2,transitional,1,1
+TRX-1021,California Central Coast,37.09007,-122.17056,3.86,10.0,258.8,6.75,gravel,1,divergent,2,1
+TRX-1022,Ionian Barrier Spit,39.42501,16.47489,3.13,10.0,54.2,11.87,dune,2,transitional,1,0
+TRX-1023,California Central Coast,37.03472,-121.94984,1.92,17.0,196.8,8.57,defence structure,4,divergent,2,0
+TRX-1024,California Central Coast,37.08843,-122.06161,11.48,1.0,403.0,9.97,dune,2,transitional,1,1
+TRX-1025,North Sea Barrier Island,53.58599,7.2241,5.17,20.0,237.3,11.85,sandy,0,divergent,2,1
+TRX-1026,Adriatic Central Coast (Abruzzo),42.33884,14.4789,6.86,27.0,41.7,5.21,riverbank,3,transitional,1,1
+TRX-1027,Outer Banks Transect,35.8283,-75.50342,7.42,23.0,152.5,5.29,dune,2,transitional,1,1
+TRX-1028,Ionian Barrier Spit,39.50488,16.51861,12.12,5.0,109.4,13.28,riverbank,3,transitional,1,0
+TRX-1029,North Sea Barrier Island,53.56574,7.33096,10.23,20.0,295.1,5.99,sandy,0,transitional,1,1
+TRX-1030,Ionian Barrier Spit,39.38108,16.3574,6.72,13.0,42.3,6.08,gravel,1,divergent,2,0
+TRX-1031,Ionian Barrier Spit,39.60252,16.51402,10.41,22.0,195.7,13.06,sandy,0,convergent,0,1
+TRX-1032,Ionian Barrier Spit,39.40123,16.5725,7.2,16.0,212.2,8.26,sandy,0,transitional,1,1
+TRX-1033,Outer Banks Transect,35.85031,-75.63264,8.96,4.0,205.6,15.08,sandy,0,convergent,0,0
+TRX-1034,North Sea Barrier Island,53.36023,7.24513,8.49,15.0,37.1,16.29,defence structure,4,transitional,1,0
+TRX-1035,Gold Coast Spit,-28.01693,153.56453,4.99,28.0,364.4,7.24,defence structure,4,transitional,1,1
+TRX-1036,Ligurian Littoral,44.25556,9.26576,4.77,23.0,363.5,6.32,riverbank,3,transitional,1,1
+TRX-1037,California Central Coast,36.82046,-121.9482,6.46,16.0,262.3,6.84,dune,2,transitional,1,1
+TRX-1038,Outer Banks Transect,35.82666,-75.57578,7.64,27.0,181.5,5.08,riverbank,3,convergent,0,1
+TRX-1039,Tyrrhenian Bay (Campania),40.89958,14.25983,8.75,11.0,324.0,17.26,riverbank,3,divergent,2,1
+TRX-1040,Ligurian Littoral,44.36845,9.16523,12.19,3.0,44.8,7.76,sandy,0,divergent,2,1
+TRX-1041,Gold Coast Spit,-27.87099,153.45196,10.64,6.0,148.5,13.58,sandy,0,divergent,2,0
+TRX-1042,North Sea Barrier Island,53.49733,7.25365,3.44,24.0,84.8,15.08,riverbank,3,convergent,0,0
+TRX-1043,Adriatic Central Coast (Abruzzo),42.38873,14.4506,3.18,26.0,76.2,4.57,dune,2,transitional,1,1
+TRX-1044,Gold Coast Spit,-28.04296,153.33224,10.48,17.0,160.8,12.54,gravel,1,convergent,0,0
+TRX-1045,Tyrrhenian Bay (Campania),40.83166,14.29764,11.03,19.0,51.3,14.67,sandy,0,convergent,0,0
+TRX-1046,Outer Banks Transect,35.65676,-75.5036,4.19,27.0,120.6,13.64,sandy,0,divergent,2,1
+TRX-1047,North Sea Barrier Island,53.37243,7.22261,10.78,20.0,220.0,9.69,sandy,0,transitional,1,1
+TRX-1048,North Sea Barrier Island,53.54597,7.05968,5.73,7.0,153.8,14.44,sandy,0,transitional,1,0
+TRX-1049,Outer Banks Transect,35.92725,-75.551,11.08,8.0,217.4,14.97,dune,2,transitional,1,1
+TRX-1050,Outer Banks Transect,35.94432,-75.46503,7.8,20.0,391.7,16.04,gravel,1,convergent,0,1
+TRX-1051,Adriatic Central Coast (Abruzzo),42.23122,14.39898,3.44,12.0,192.6,8.44,riverbank,3,divergent,2,1
+TRX-1052,Ionian Barrier Spit,39.51026,16.60809,8.78,24.0,27.2,10.77,gravel,1,transitional,1,0
+TRX-1053,Ligurian Littoral,44.27892,9.17805,2.41,15.0,67.2,12.5,defence structure,4,transitional,1,0
+TRX-1054,Ionian Barrier Spit,39.41961,16.52659,3.46,24.0,321.0,15.0,gravel,1,convergent,0,1
+TRX-1055,Adriatic Central Coast (Abruzzo),42.46198,14.32498,1.47,2.0,70.7,6.85,sandy,0,transitional,1,0
+TRX-1056,North Sea Barrier Island,53.38891,7.16935,8.49,22.0,50.7,7.75,gravel,1,transitional,1,0
+TRX-1057,Outer Banks Transect,35.91929,-75.49237,5.99,10.0,396.6,14.64,sandy,0,transitional,1,1
+TRX-1058,Tyrrhenian Bay (Campania),40.7162,14.38013,9.05,20.0,214.5,5.52,defence structure,4,divergent,2,1
+TRX-1059,Ionian Barrier Spit,39.44148,16.51589,2.24,24.0,346.6,6.35,defence structure,4,transitional,1,1
+TRX-1060,Tyrrhenian Bay (Campania),40.70639,14.3609,3.96,19.0,173.7,15.25,sandy,0,convergent,0,0
+TRX-1061,California Central Coast,36.94861,-121.94117,5.3,2.0,109.8,9.43,dune,2,transitional,1,0
+TRX-1062,Outer Banks Transect,35.93117,-75.47698,9.63,11.0,389.1,16.3,riverbank,3,transitional,1,1
+TRX-1063,Adriatic Central Coast (Abruzzo),42.30228,14.49877,5.88,14.0,333.0,16.57,dune,2,divergent,2,1
+TRX-1064,North Sea Barrier Island,53.60755,7.33139,6.22,19.0,307.7,14.5,sandy,0,divergent,2,1
+TRX-1065,Gold Coast Spit,-27.87631,153.5474,2.34,1.0,132.3,13.37,sandy,0,divergent,2,0
+TRX-1066,California Central Coast,36.81158,-122.11772,3.94,9.0,333.0,15.03,dune,2,convergent,0,0
+TRX-1067,Outer Banks Transect,35.9008,-75.49572,5.99,1.0,196.0,10.56,defence structure,4,transitional,1,0
+TRX-1068,Adriatic Central Coast (Abruzzo),42.37387,14.27386,11.3,18.0,145.6,5.33,sandy,0,divergent,2,1
+TRX-1069,North Sea Barrier Island,53.42786,7.19848,3.46,6.0,78.8,12.53,sandy,0,convergent,0,0
+TRX-1070,Gold Coast Spit,-27.92603,153.28259,9.19,2.0,400.7,17.4,defence structure,4,convergent,0,1
+TRX-1071,Outer Banks Transect,35.81213,-75.73658,3.55,4.0,51.0,10.27,gravel,1,convergent,0,0
+TRX-1072,California Central Coast,36.82142,-122.07206,4.11,1.0,150.6,14.75,sandy,0,transitional,1,0
+TRX-1073,Outer Banks Transect,35.79121,-75.45795,8.08,6.0,167.3,8.28,sandy,0,transitional,1,1
+TRX-1074,Outer Banks Transect,35.80324,-75.51574,6.75,19.0,305.1,16.72,sandy,0,transitional,1,1
+TRX-1075,Ligurian Littoral,44.26433,9.34935,1.72,3.0,403.5,17.4,dune,2,divergent,2,0
+TRX-1076,Tyrrhenian Bay (Campania),40.95428,14.26833,1.4,16.0,283.7,11.26,sandy,0,convergent,0,0
+TRX-1077,North Sea Barrier Island,53.62332,7.14861,10.15,12.0,112.4,8.59,defence structure,4,transitional,1,0
+TRX-1078,California Central Coast,36.90856,-122.0944,6.72,12.0,281.3,12.37,gravel,1,transitional,1,1
+TRX-1079,Ligurian Littoral,44.42772,9.12348,11.44,22.0,253.9,6.3,sandy,0,convergent,0,1
+TRX-1080,California Central Coast,36.95151,-122.15548,6.58,25.0,99.2,6.84,gravel,1,convergent,0,1
+TRX-1081,California Central Coast,36.87901,-122.03363,11.68,24.0,60.4,15.8,riverbank,3,convergent,0,1
+TRX-1082,California Central Coast,37.07128,-122.09369,5.51,18.0,116.6,8.31,sandy,0,divergent,2,1
+TRX-1083,Outer Banks Transect,35.82744,-75.56501,12.43,2.0,49.5,16.47,defence structure,4,divergent,2,0
+TRX-1084,California Central Coast,36.88679,-122.05687,2.37,6.0,309.5,12.16,riverbank,3,transitional,1,0
+TRX-1085,Ligurian Littoral,44.41868,9.22807,5.13,21.0,201.4,8.67,sandy,0,divergent,2,1
+TRX-1086,Ionian Barrier Spit,39.4392,16.45234,7.4,17.0,251.9,15.47,gravel,1,transitional,1,1
+TRX-1087,Outer Banks Transect,35.87719,-75.46395,1.29,24.0,373.0,14.0,gravel,1,convergent,0,1
+TRX-1088,Outer Banks Transect,35.73544,-75.71443,4.0,15.0,109.5,6.7,defence structure,4,convergent,0,0
+TRX-1089,Tyrrhenian Bay (Campania),40.97735,14.30993,2.45,7.0,240.9,11.11,sandy,0,transitional,1,1
+TRX-1090,Ionian Barrier Spit,39.352,16.59975,1.1,7.0,132.7,16.82,gravel,1,transitional,1,0
+TRX-1091,Ligurian Littoral,44.39931,9.13848,2.08,23.0,387.7,6.06,riverbank,3,transitional,1,1
+TRX-1092,North Sea Barrier Island,53.56949,7.08494,4.94,3.0,317.7,7.39,sandy,0,convergent,0,1
+TRX-1093,Outer Banks Transect,35.73283,-75.56081,6.8,25.0,49.6,13.44,riverbank,3,convergent,0,1
+TRX-1094,Outer Banks Transect,35.70712,-75.58255,10.6,21.0,34.3,12.75,sandy,0,convergent,0,1
+TRX-1095,California Central Coast,37.06163,-122.13394,3.09,16.0,80.6,15.08,dune,2,convergent,0,0
+TRX-1096,Ionian Barrier Spit,39.35096,16.37018,7.33,7.0,304.0,5.0,dune,2,transitional,1,1
+TRX-1097,Ionian Barrier Spit,39.54131,16.49527,8.49,6.0,371.2,15.43,riverbank,3,transitional,1,1
+TRX-1098,Outer Banks Transect,35.81302,-75.66137,3.36,25.0,325.6,9.95,gravel,1,convergent,0,1
+TRX-1099,California Central Coast,36.83475,-122.06058,4.53,4.0,159.0,9.68,sandy,0,divergent,2,0
+TRX-1100,California Central Coast,37.00617,-122.19131,3.93,7.0,375.9,14.68,sandy,0,divergent,2,0
+TRX-1101,North Sea Barrier Island,53.5525,7.17337,10.27,14.0,179.5,16.36,sandy,0,divergent,2,0
+TRX-1102,North Sea Barrier Island,53.48429,7.11639,11.04,18.0,102.5,12.63,defence structure,4,transitional,1,1
+TRX-1103,Outer Banks Transect,35.68876,-75.58807,11.92,1.0,341.0,5.67,dune,2,divergent,2,1
+TRX-1104,Adriatic Central Coast (Abruzzo),42.35559,14.35863,3.12,6.0,355.3,9.64,dune,2,convergent,0,0
+TRX-1105,Ligurian Littoral,44.4232,9.14945,3.32,24.0,119.5,4.68,riverbank,3,divergent,2,1
+TRX-1106,Gold Coast Spit,-28.08731,153.35493,1.08,21.0,329.0,7.72,sandy,0,convergent,0,1
+TRX-1107,California Central Coast,36.99658,-122.16064,9.46,9.0,364.8,5.49,gravel,1,divergent,2,1
+TRX-1108,Ligurian Littoral,44.17867,9.22646,5.38,27.0,262.3,8.56,sandy,0,transitional,1,1
+TRX-1109,Adriatic Central Coast (Abruzzo),42.29065,14.38767,1.97,21.0,250.5,9.4,gravel,1,convergent,0,0
+TRX-1110,North Sea Barrier Island,53.6223,7.20996,3.66,1.0,417.3,13.96,defence structure,4,divergent,2,0
+TRX-1111,Tyrrhenian Bay (Campania),40.83568,14.28336,1.09,25.0,112.8,9.31,dune,2,transitional,1,0
+TRX-1112,Tyrrhenian Bay (Campania),40.72862,14.16078,10.92,16.0,257.4,5.59,gravel,1,divergent,2,1
+TRX-1113,Ionian Barrier Spit,39.36768,16.49803,5.62,24.0,155.1,6.46,sandy,0,transitional,1,1
+TRX-1114,Ionian Barrier Spit,39.57651,16.58841,7.18,11.0,403.8,7.56,gravel,1,transitional,1,1
+TRX-1115,Tyrrhenian Bay (Campania),40.97637,14.23771,1.71,5.0,322.8,6.61,dune,2,convergent,0,0
+TRX-1116,Adriatic Central Coast (Abruzzo),42.46565,14.39856,8.13,17.0,214.9,14.24,gravel,1,transitional,1,1
+TRX-1117,North Sea Barrier Island,53.38527,7.34872,9.22,22.0,128.4,8.69,riverbank,3,transitional,1,1
+TRX-1118,Ionian Barrier Spit,39.59084,16.6356,5.14,20.0,120.5,10.52,defence structure,4,divergent,2,0
+TRX-1119,Ligurian Littoral,44.19927,9.26452,6.34,11.0,186.5,6.45,sandy,0,divergent,2,1
+TRX-1120,Tyrrhenian Bay (Campania),40.86132,14.20931,1.51,15.0,257.8,5.37,dune,2,divergent,2,1
+TRX-1121,Outer Banks Transect,35.83865,-75.47164,4.01,27.0,384.6,10.04,dune,2,transitional,1,1
+TRX-1122,Ionian Barrier Spit,39.37324,16.39573,9.35,9.0,91.3,11.83,sandy,0,transitional,1,0
+TRX-1123,California Central Coast,36.89905,-121.96841,7.73,9.0,406.7,14.08,dune,2,divergent,2,1
+TRX-1124,Ionian Barrier Spit,39.64673,16.3774,10.2,5.0,77.3,10.68,sandy,0,convergent,0,0
+TRX-1125,Adriatic Central Coast (Abruzzo),42.24109,14.49217,5.78,16.0,150.8,11.0,sandy,0,transitional,1,0
+TRX-1126,Gold Coast Spit,-27.9935,153.52159,4.51,3.0,373.3,15.45,defence structure,4,divergent,2,0
+TRX-1127,North Sea Barrier Island,53.5634,7.30196,7.36,16.0,298.0,7.76,sandy,0,divergent,2,1
+TRX-1128,Outer Banks Transect,35.90661,-75.51878,4.85,14.0,105.5,11.78,defence structure,4,divergent,2,0
+TRX-1129,California Central Coast,36.91226,-121.92004,12.45,7.0,196.8,11.34,sandy,0,transitional,1,1
+TRX-1130,North Sea Barrier Island,53.50084,7.0539,3.99,21.0,130.0,10.72,sandy,0,transitional,1,1
+TRX-1131,North Sea Barrier Island,53.43225,7.06717,7.49,1.0,365.3,16.56,defence structure,4,transitional,1,0
+TRX-1132,Tyrrhenian Bay (Campania),40.71146,14.11865,11.26,5.0,302.3,6.8,riverbank,3,convergent,0,1
+TRX-1133,Tyrrhenian Bay (Campania),40.71681,14.30124,1.53,4.0,363.2,8.11,riverbank,3,transitional,1,1
+TRX-1134,Outer Banks Transect,35.91932,-75.69924,12.34,24.0,397.7,11.21,defence structure,4,transitional,1,1
+TRX-1135,Adriatic Central Coast (Abruzzo),42.21949,14.49751,6.67,24.0,126.7,6.74,sandy,0,transitional,1,1
+TRX-1136,Adriatic Central Coast (Abruzzo),42.29335,14.41817,2.18,15.0,247.3,13.55,dune,2,transitional,1,0
+TRX-1137,Tyrrhenian Bay (Campania),40.9754,14.16475,1.81,11.0,256.5,17.05,dune,2,divergent,2,0
+TRX-1138,Tyrrhenian Bay (Campania),40.96316,14.39297,4.4,22.0,276.9,16.22,sandy,0,divergent,2,1
+TRX-1139,Ligurian Littoral,44.24315,9.16379,4.16,9.0,76.2,8.6,sandy,0,convergent,0,0
+TRX-1140,North Sea Barrier Island,53.42781,7.18188,1.88,12.0,251.5,9.04,dune,2,transitional,1,0
+TRX-1141,Ligurian Littoral,44.16102,9.30042,5.31,18.0,247.5,17.42,gravel,1,transitional,1,0
+TRX-1142,Outer Banks Transect,35.8599,-75.59887,10.51,26.0,127.6,11.17,sandy,0,convergent,0,1
+TRX-1143,North Sea Barrier Island,53.35943,7.08459,8.5,6.0,210.1,10.57,sandy,0,transitional,1,0
+TRX-1144,Outer Banks Transect,35.86039,-75.56116,10.97,1.0,83.5,10.68,sandy,0,divergent,2,0
+TRX-1145,Ligurian Littoral,44.42394,9.14188,6.26,6.0,320.8,10.21,dune,2,transitional,1,1
+TRX-1146,Gold Coast Spit,-27.84977,153.34577,5.17,11.0,213.0,9.71,sandy,0,divergent,2,0
+TRX-1147,Ionian Barrier Spit,39.57895,16.62026,6.73,14.0,190.4,8.0,dune,2,transitional,1,1
+TRX-1148,North Sea Barrier Island,53.61598,7.33957,11.83,7.0,400.6,11.88,sandy,0,transitional,1,1
+TRX-1149,Adriatic Central Coast (Abruzzo),42.4911,14.34278,9.76,26.0,158.4,9.65,gravel,1,transitional,1,1
+TRX-1150,North Sea Barrier Island,53.37411,7.12086,3.18,3.0,309.7,6.5,gravel,1,divergent,2,1
+TRX-1151,Adriatic Central Coast (Abruzzo),42.3432,14.35341,6.31,22.0,177.6,7.26,gravel,1,transitional,1,1
+TRX-1152,Tyrrhenian Bay (Campania),40.81627,14.20551,11.74,13.0,329.3,16.17,riverbank,3,divergent,2,1
+TRX-1153,California Central Coast,36.97908,-122.03977,4.86,22.0,316.2,12.12,sandy,0,transitional,1,1
+TRX-1154,Outer Banks Transect,35.80044,-75.74952,7.81,13.0,385.8,12.89,sandy,0,convergent,0,1
+TRX-1155,Ionian Barrier Spit,39.44058,16.37786,5.29,6.0,190.3,8.2,gravel,1,divergent,2,1
+TRX-1156,California Central Coast,36.85386,-122.08054,6.85,4.0,206.0,5.57,dune,2,convergent,0,1
+TRX-1157,California Central Coast,37.04107,-122.19633,4.53,19.0,222.8,13.42,sandy,0,transitional,1,1
+TRX-1158,Adriatic Central Coast (Abruzzo),42.29089,14.32759,8.22,20.0,342.9,16.31,gravel,1,divergent,2,1
+TRX-1159,Outer Banks Transect,35.90325,-75.45847,2.11,6.0,412.3,11.41,gravel,1,transitional,1,1
+TRX-1160,North Sea Barrier Island,53.40928,7.29385,9.31,15.0,194.0,10.54,sandy,0,divergent,2,1
+TRX-1161,Gold Coast Spit,-27.98987,153.53675,8.83,9.0,190.3,13.27,dune,2,convergent,0,0
+TRX-1162,California Central Coast,36.80526,-122.10261,8.24,20.0,64.7,14.01,gravel,1,transitional,1,0
+TRX-1163,Ligurian Littoral,44.17521,9.07837,9.3,21.0,217.4,16.11,sandy,0,transitional,1,1
+TRX-1164,Gold Coast Spit,-28.08781,153.36798,1.25,20.0,410.7,12.79,riverbank,3,transitional,1,1
+TRX-1165,Tyrrhenian Bay (Campania),40.80133,14.30102,4.33,13.0,29.0,16.85,sandy,0,transitional,1,0
+TRX-1166,California Central Coast,37.08955,-121.96191,7.48,10.0,266.2,11.51,riverbank,3,transitional,1,1
+TRX-1167,Adriatic Central Coast (Abruzzo),42.31227,14.39188,9.7,14.0,129.9,13.46,sandy,0,transitional,1,1
+TRX-1168,Ligurian Littoral,44.35346,9.1318,5.56,1.0,332.8,13.04,sandy,0,transitional,1,1
+TRX-1169,Outer Banks Transect,35.67914,-75.68255,9.1,8.0,45.5,8.24,dune,2,divergent,2,0
+TRX-1170,Outer Banks Transect,35.81244,-75.60732,7.32,11.0,156.2,9.0,gravel,1,transitional,1,0
+TRX-1171,Gold Coast Spit,-28.03681,153.47932,8.67,9.0,181.2,13.09,dune,2,convergent,0,0
+TRX-1172,Tyrrhenian Bay (Campania),40.76227,14.40546,5.12,10.0,320.3,10.37,gravel,1,convergent,0,1
+TRX-1173,Ligurian Littoral,44.33728,9.21947,5.66,25.0,29.4,17.15,gravel,1,transitional,1,0
+TRX-1174,Ligurian Littoral,44.26353,9.33465,2.24,13.0,107.3,17.4,dune,2,convergent,0,0
+TRX-1175,Ligurian Littoral,44.38006,9.34531,12.25,18.0,183.4,14.27,gravel,1,transitional,1,1
+TRX-1176,Tyrrhenian Bay (Campania),40.89927,14.31605,8.21,21.0,147.1,11.46,gravel,1,divergent,2,1
+TRX-1177,Gold Coast Spit,-27.87295,153.35589,11.62,6.0,389.6,6.81,sandy,0,transitional,1,1
+TRX-1178,Ligurian Littoral,44.35501,9.0795,7.59,14.0,409.7,9.83,dune,2,transitional,1,1
+TRX-1179,Ligurian Littoral,44.33291,9.20101,1.74,19.0,312.9,16.79,sandy,0,convergent,0,0
+TRX-1180,Tyrrhenian Bay (Campania),40.98555,14.11682,7.84,26.0,281.6,11.68,riverbank,3,divergent,2,1
+TRX-1181,Ligurian Littoral,44.28733,9.26692,3.6,16.0,394.9,16.48,sandy,0,convergent,0,1
+TRX-1182,Gold Coast Spit,-27.96224,153.4751,5.99,8.0,338.7,17.15,gravel,1,convergent,0,0
+TRX-1183,Outer Banks Transect,35.91163,-75.47734,3.66,24.0,405.0,4.59,sandy,0,transitional,1,1
+TRX-1184,California Central Coast,36.82111,-122.07487,3.84,23.0,234.9,13.81,dune,2,divergent,2,0
+TRX-1185,Adriatic Central Coast (Abruzzo),42.33156,14.49833,1.5,26.0,179.4,15.19,dune,2,transitional,1,0
+TRX-1186,Gold Coast Spit,-27.97142,153.30722,2.51,9.0,323.2,12.04,riverbank,3,divergent,2,0
+TRX-1187,Outer Banks Transect,35.77387,-75.64805,11.48,26.0,213.0,7.94,sandy,0,transitional,1,1
+TRX-1188,Ionian Barrier Spit,39.57709,16.45273,8.86,11.0,334.9,13.59,dune,2,transitional,1,1
+TRX-1189,Ligurian Littoral,44.19441,9.13653,3.39,12.0,245.4,13.78,sandy,0,divergent,2,0
+TRX-1190,Gold Coast Spit,-27.89802,153.31633,10.22,5.0,78.6,8.3,gravel,1,transitional,1,0
+TRX-1191,Adriatic Central Coast (Abruzzo),42.45528,14.42497,2.54,1.0,123.8,13.87,dune,2,divergent,2,0
+TRX-1192,Ligurian Littoral,44.44172,9.24316,7.67,17.0,145.7,9.37,riverbank,3,transitional,1,1
+TRX-1193,Ligurian Littoral,44.41123,9.19462,6.46,13.0,25.7,16.81,sandy,0,transitional,1,0
+TRX-1194,Tyrrhenian Bay (Campania),40.895,14.21695,6.17,21.0,382.5,15.42,riverbank,3,divergent,2,1
+TRX-1195,Ionian Barrier Spit,39.57241,16.45907,1.18,21.0,59.5,8.78,sandy,0,transitional,1,0
+TRX-1196,Tyrrhenian Bay (Campania),40.99113,14.12679,7.43,8.0,117.9,14.86,sandy,0,divergent,2,0
+TRX-1197,Ionian Barrier Spit,39.4185,16.56521,2.88,20.0,126.3,8.11,dune,2,divergent,2,1
+TRX-1198,Ligurian Littoral,44.30677,9.06826,3.46,19.0,324.7,10.7,sandy,0,divergent,2,1
+TRX-1199,Adriatic Central Coast (Abruzzo),42.29566,14.44017,3.1,4.0,196.8,10.69,sandy,0,transitional,1,0
+TRX-1200,Adriatic Central Coast (Abruzzo),42.37451,14.50834,2.1,15.0,331.0,7.03,riverbank,3,transitional,1,1
