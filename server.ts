@@ -3,13 +3,20 @@ dotenv.config();
 
 import express, { Request, Response } from "express";
 import path from "path";
-import { createServer as createViteServer } from "vite";
 import { GoogleGenAI } from "@google/genai";
 
 const app = express();
 const PORT = 3000;
 
 app.use(express.json());
+
+// Normalizing Vercel API routing
+app.use((req, _res, next) => {
+  if (process.env.VERCEL && !req.url.startsWith("/api")) {
+    req.url = "/api" + (req.url.startsWith("/") ? req.url : "/" + req.url);
+  }
+  next();
+});
 
 // Lazy-initialized Gemini AI Client
 let aiClient: GoogleGenAI | null = null;
@@ -1269,6 +1276,7 @@ app.post("/api/ai/chat", async (req: Request, res: Response) => {
 // -------------------------------------------------------------
 export async function startServer() {
   if (process.env.NODE_ENV !== "production") {
+    const { createServer: createViteServer } = await import("vite");
     const vite = await createViteServer({
       server: { middlewareMode: true },
       appType: "spa"
